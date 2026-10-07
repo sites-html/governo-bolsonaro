@@ -1,0 +1,2994 @@
+[
+  {
+    "id": "registro-2019-01-10-flavio-nao-comparece-ao-mp-no-caso-queiroz",
+    "date": "2019-01-10",
+    "title": "Flávio não comparece ao MP na investigação da rachadinha",
+    "summary": "Flávio Bolsonaro não compareceu ao convite do MPRJ para esclarecer movimentações de Fabrício Queiroz. A defesa pediu acesso aos autos e informou que outra data seria agendada.",
+    "category": "Governo",
+    "importance": 3,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2019/01/flavio-bolsonaro-nao-comparece-a-depoimento-no-ministerio-publico.shtml",
+        "published": "2019-01-10"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação."
+  },
+  {
+    "id": "registro-2019-01-17-pedido-de-flavio-suspende-investigacao-sobre-seu-gabinete",
+    "date": "2019-01-17",
+    "title": "Pedido de Flávio suspende investigação da rachadinha em seu gabinete",
+    "summary": "Luiz Fux concedeu liminar solicitada por Flávio Bolsonaro para suspender a investigação do MPRJ enquanto eram analisadas questões de competência e legalidade das provas.",
+    "category": "Governo",
+    "importance": 3,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "STF",
+        "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=401084",
+        "published": "2019-01-17"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "dateNote": "Data da divulgação oficial da liminar no STF; reportagens divergem entre assinatura em 16/01 e divulgação em 17/01.",
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação."
+  },
+  {
+    "id": "registro-2019-01-18-coaf-48-depositos-de-r-2-mil-na-conta-de-flavio",
+    "date": "2019-01-18",
+    "title": "Coaf aponta 48 depósitos na conta de Flávio durante apuração da rachadinha",
+    "summary": "O Jornal Nacional divulgou um relatório do Coaf que identificava 48 depósitos em dinheiro, somando R$ 96 mil, na conta de Flávio Bolsonaro entre junho e julho de 2017. Flávio atribuiu os valores à venda de um imóvel.",
+    "category": "Governo",
+    "importance": 4,
+    "status": "Suspeita investigada",
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2019/01/coaf-aponta-48-depositos-suspeitos-na-conta-de-flavio-bolsonaro.shtml",
+        "published": "2019-01-18"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "dateNote": "Entrada de REVELAÇÃO: os depósitos ocorreram em junho/julho de 2017, fora do intervalo desta linha do tempo; não são apresentados como atos de 2019.",
+    "highlight": true,
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação.",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/9833_A323265DFD8DBBB4-8.jpg?w=1200&h=630&crop=1",
+      "local": "assets/flavio-2019-01-22.jpg",
+      "alt": "Flávio Bolsonaro em sessão de comissão mista.",
+      "credit": "Waldemir Barreto/Agência Senado —09/04/2019",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/abin-nega-producao-de-relatorio-para-ajudar-defesa-de-flavio-bolsonaro/",
+      "license": "Crédito original preservado. Licença aberta não identificada na página consultada.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Retrato de arquivo posterior ao anúncio das indicações; identifica Flávio e não mostra Adriano ou as servidoras.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "id": "registro-2019-01-22-queiroz-confirma-indicacao-de-familiares-de-adriano-ao-gabinete-de-flavio",
+    "date": "2019-01-22",
+    "title": "Queiroz confirma indicação de familiares de Adriano ao gabinete de Flávio",
+    "summary": "A defesa de Fabrício Queiroz confirmou que ele indicou a mãe e a mulher de Adriano da Nóbrega para trabalhar no gabinete de Flávio Bolsonaro.",
+    "category": "Governo",
+    "importance": 4,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2019/01/22/queiroz-confirma-amizade-com-miliciano-e-indicacoes-para-f-bolsonaro.htm",
+        "published": "2019-01-22"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "dateNote": "Data da nota pública de Queiroz confirmando as indicações; as contratações e exonerações ocorreram antes de 2019.",
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação.",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/9833_A323265DFD8DBBB4-8.jpg?w=1200&h=630&crop=1",
+      "local": "assets/flavio-2019-01-22.jpg",
+      "alt": "Flávio Bolsonaro em sessão de comissão mista.",
+      "credit": "Waldemir Barreto/Agência Senado —09/04/2019",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/abin-nega-producao-de-relatorio-para-ajudar-defesa-de-flavio-bolsonaro/",
+      "license": "Crédito original preservado. Licença aberta não identificada na página consultada.",
+      "context": "Retrato de arquivo posterior ao anúncio das indicações; identifica Flávio e não mostra Adriano ou as servidoras."
+    }
+  },
+  {
+    "date": "2019-02-18",
+    "title": "Crise no PSL derruba Bebianno",
+    "summary": "Gustavo Bebianno foi demitido da Secretaria-Geral da Presidência após denúncias sobre candidaturas de fachada no PSL e ataques públicos de Carlos Bolsonaro.",
+    "category": "Governo",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Deutsche Welle / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2019/02/18/bolsonaro-demite-gustavo-bebianno.htm",
+        "published": "2019-02-18"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2019-02-18-crise-no-psl-derruba-bebianno"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "Presidente publica vídeo sexual explícito no Carnaval",
+    "summary": "Bolsonaro publicou no Twitter um vídeo de conteúdo sexual explícito registrado no Carnaval. No dia seguinte, perguntou o significado da expressão inglesa associada à cena.",
+    "category": "Governo",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "AFP / UOL",
+        "url": "https://entretenimento.uol.com.br/noticias/afp/2019/03/06/bolsonaro-desata-polemica-ao-postar-video-obsceno-para-criticar-o-carnaval.htm",
+        "published": "2019-03-06"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-03-05-presidente-publica-video-sexual-explicito-no-carnaval"
+  },
+  {
+    "date": "2019-03-25",
+    "title": "Planalto determina celebrações do golpe de 1964",
+    "summary": "O porta-voz da Presidência informou que Bolsonaro determinara ao Ministério da Defesa comemorações do aniversário de 31 de março de 1964. Segundo o porta-voz, o presidente não considerava o episódio um golpe.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2019/03/25/bolsonaro-nao-considera-que-houve-golpe-em-1964-e-determina-comemoracoes-devidas-diz-porta-voz.htm",
+        "published": "2019-03-25"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2019-03-25-planalto-determina-celebracoes-do-golpe-de-1964",
+    "highlight": true,
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi/20210810_00098pf.jpg",
+      "local": "assets/noticia-2021-08-10.jpg",
+      "alt": "Ao lado do ministro da Defesa, Braga Neto (3º à dir.), Bolsonaro acena do alto da rampa do Planalto para militares e manifestantes ",
+      "credit": "Pedro França/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Bolsonaro e autoridades acompanham o desfile militar no Planalto em 10 de agosto de 2021.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2019-04-30",
+    "title": "MEC anuncia bloqueio de verbas após acusação de balbúrdia",
+    "summary": "O MEC anunciou bloqueio de 30% das verbas discricionárias de universidades e institutos federais. Antes de estender a medida, Abraham Weintraub havia associado cortes na UnB, UFF e UFBA à balbúrdia.",
+    "category": "Governo",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://educacao.uol.com.br/noticias/2019/04/30/mec-anuncia-corte-de-30-da-verba-para-todas-as-federais.htm",
+        "published": "2019-04-30"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2019-04-30-mec-anuncia-bloqueio-de-verbas-apos-acusacao-de-balburd",
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/e2/2019/04/09/posso-do-ministro-da-educacao-abraham-weintraub-1554842676081_v2_450x450.jpg",
+      "local": "assets/bolsonaro-2019-04-30.jpg",
+      "alt": "weintraub bolsonaro - Adriano Machado/Reuters - Adriano Machado/Reuters",
+      "credit": "Adriano Machado/Reuters",
+      "sourceUrl": "https://educacao.uol.com.br/noticias/2019/04/30/mec-anuncia-corte-de-30-da-verba-para-todas-as-federais.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Weintraub na posse do Ministério da Educação em 9 de abril de 2019; foto de arquivo utilizada na notícia do bloqueio de verbas."
+    }
+  },
+  {
+    "date": "2019-05-15",
+    "title": "Bolsonaro insulta manifestantes pela educação",
+    "summary": "Bolsonaro chamou participantes dos protestos contra os bloqueios na educação de idiotas úteis e imbecis durante visita aos Estados Unidos.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2019/05/15/estudantes-que-protestam-nesta-4-feira-sao-idiotas-uteis-e-imbecis-diz-bolsonaro.amp.htm",
+        "published": "2019-05-15"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-05-15-bolsonaro-insulta-manifestantes-pela-educacao",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=thuXseNfs8M",
+      "title": "Dos EUA, Bolsonaro chama manifestantes de \"idiotas úteis\" e \"imbecis\"",
+      "source": "Rede TVT",
+      "sourceUrl": "https://www.youtube.com/watch?v=thuXseNfs8M"
+    }
+  },
+  {
+    "date": "2019-06-25",
+    "title": "Sargento de avião de apoio presidencial é preso com cocaína",
+    "summary": "Um sargento da FAB foi preso em Sevilha com 39 quilos de cocaína. Ele integrava a tripulação de uma aeronave de apoio à viagem presidencial ao G20.",
+    "category": "Governo",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "BBC News Brasil / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/bbc/2019/06/26/prisao-militar-39-kg-de-cocaina-aviao-fab-espanha.htm",
+        "published": "2019-06-26"
+      }
+    ],
+    "status": "Investigação",
+    "id": "registro-2019-06-25-sargento-de-aviao-de-apoio-presidencial-e-preso-com-coc"
+  },
+  {
+    "id": "registro-2019-07-16-recurso-de-flavio-leva-a-suspensao-nacional-de-apuracoes-com-dados-do-coaf",
+    "date": "2019-07-16",
+    "title": "Recurso de Flávio no caso da rachadinha suspende apurações com dados do Coaf",
+    "summary": "A pedido da defesa de Flávio Bolsonaro, Dias Toffoli suspendeu processos baseados no compartilhamento detalhado de dados fiscais e bancários sem prévia autorização judicial.",
+    "category": "Governo",
+    "importance": 4,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2019/07/16/toffoli-atende-pedido-de-defesa-de-flavio-bolsonaro-e-suspende-investigacoes-com-dados-do-coaf.htm",
+        "published": "2019-07-16"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação."
+  },
+  {
+    "date": "2019-07-19",
+    "title": "Bolsonaro nega a existência de fome no país",
+    "summary": "Bolsonaro negou que pessoas passassem fome no Brasil em conversa com correspondentes estrangeiros. Depois, reconheceu que uma parcela da população passava fome.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2019/07/19/falar-que-se-passa-fome-no-brasil-e-uma-grande-mentira-diz-bolsonaro.htm",
+        "published": "2019-07-19"
+      }
+    ],
+    "status": "Declaração",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=P4m78P5wCj8",
+      "source": "AFP",
+      "title": "Bolsonaro nega a existência de fome no país"
+    },
+    "id": "registro-2019-07-19-bolsonaro-nega-a-existencia-de-fome-no-pais"
+  },
+  {
+    "date": "2019-07-29",
+    "title": "Presidente provoca filho de desaparecido político",
+    "summary": "Bolsonaro disse que poderia revelar ao presidente da OAB como seu pai, Fernando Santa Cruz, desaparecera. Atribuiu a morte a militantes de esquerda, sem apresentar provas.",
+    "category": "Direitos",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2019/07/bolsonaro-defende-militares-e-diz-que-grupo-de-esquerda-matou-pai-de-presidente-da-oab.shtml",
+        "published": "2019-07-29"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-07-29-presidente-provoca-filho-de-desaparecido-politico"
+  },
+  {
+    "date": "2019-08-02",
+    "title": "Diretor do Inpe é afastado após defender dados científicos",
+    "summary": "Ricardo Galvão foi informado de que seria afastado da direção do Inpe após contestar críticas de Bolsonaro aos dados de desmatamento produzidos pelo instituto.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Jornal da USP",
+        "url": "https://jornal.usp.br/atualidades/conflito-sobre-dados-da-amazonia-derruba-diretor-do-inpe/",
+        "published": "2019-08-02"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data do anúncio de desligamento; não representa necessariamente a data de publicação da exoneração no Diário Oficial.",
+    "rank": 18,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2019-08-02-diretor-do-inpe-e-afastado-apos-defender-dados-cientifi",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/09/24/ex-diretor-do-inpe-alerta-para-grilagem-desmatamento-criminoso-e-invasao-de-terras-indigenas/20190924_01177w.jpg",
+      "local": "assets/noticia-2019-08-02.jpg",
+      "alt": "O professor Ricardo Galvão foi ouvido em audiência pública pela Comissão de Meio Ambiente",
+      "credit": "Waldemir Barreto/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2019/09/24/ex-diretor-do-inpe-alerta-para-grilagem-desmatamento-criminoso-e-invasao-de-terras-indigenas",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Ricardo Galvão em audiência no Senado em 24 de setembro de 2019; registro posterior ao afastamento do Inpe."
+    }
+  },
+  {
+    "date": "2019-08-21",
+    "title": "Bolsonaro insinua, sem provas, que ONGs provocam incêndios",
+    "summary": "Bolsonaro sugeriu que ONGs poderiam provocar incêndios na Amazônia para prejudicar seu governo. Não apresentou evidências da alegação.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2019/08/21/bolsonaro-diz-que-ongs-podem-estar-por-tras-de-queimadas-na-amazonia.htm",
+        "published": "2019-08-21"
+      },
+      {
+        "name": "Reuters — repercussão internacional",
+        "url": "https://www.investing.com/news/world-news/without-evidence-brazils-bolsonaro-claims-ngos-may-be-burning-the-amazon-1960242",
+        "published": "2019-08-21"
+      }
+    ],
+    "status": "Declaração",
+    "rank": 8,
+    "highlight": false,
+    "prominence": "Acusação sem provas em uma crise ambiental com repercussão internacional documentada pela Reuters.",
+    "image": {
+      "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145464/brazilfires_amo_2019223.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "credit": "Lauren Dauphin / NASA Earth Observatory; dados MODIS NASA EOSDIS/LANCE e GIBS/Worldview",
+      "license": "Uso informativo autorizado conforme NASA Images and Media Usage Guidelines. Crédito NASA obrigatório.",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fires-in-brazil-145464/",
+      "alt": "Imagem de satélite registra focos de incêndio e fumaça sobre a Amazônia em agosto de 2019.",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "local": "assets/amazonia-2019.jpg",
+      "context": "Imagem de satélite de 11 de agosto de 2019, usada para contextualizar os incêndios daquele mês."
+    },
+    "id": "registro-2019-08-21-bolsonaro-insinua-sem-provas-que-ongs-provocam-incendio"
+  },
+  {
+    "date": "2019-09-04",
+    "title": "Bolsonaro ataca pai de Bachelet, morto sob ditadura",
+    "summary": "Bolsonaro respondeu às críticas de Michelle Bachelet mencionando seu pai, Alberto Bachelet, torturado e morto durante a ditadura chilena, e exaltando a derrota da esquerda por Pinochet. Sebastián Piñera rejeitou a declaração.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mundo/2019/09/bolsonaro-ataca-pai-de-bachelet-que-foi-torturado-e-morto-pela-ditadura-pinochet.shtml",
+        "published": "2019-09-04"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-09-04-bolsonaro-ataca-pai-de-bachelet-morto-sob-ditadura",
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2019/09/03/15675608415d6f148956a29_1567560841_3x2_md.jpg",
+      "local": "assets/bolsonaro-2019-09-04.jpg",
+      "alt": "O presidente Jair Bolsonaro durante evento em Brasília - Lúcio Távora - 3.set.2019/Xinhua",
+      "credit": "Lúcio Távora/Xinhua",
+      "sourceUrl": "https://www1.folha.uol.com.br/mundo/2019/09/bolsonaro-ataca-pai-de-bachelet-que-foi-torturado-e-morto-pela-ditadura-pinochet.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro em evento em Brasília em 3 de setembro de 2019, véspera da declaração sobre Bachelet."
+    }
+  },
+  {
+    "date": "2019-09-24",
+    "title": "Discurso na ONU minimiza crise ambiental e ataca críticos",
+    "summary": "Na Assembleia Geral da ONU, Bolsonaro contestou reportagens sobre a Amazônia, atribuiu interesses estrangeiros às críticas e atacou governos de esquerda e lideranças indígenas.",
+    "category": "Meio ambiente",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2019/09/24/franca-socialismo-amazonia-as-polemicas-de-bolsonaro-na-onu.htm",
+        "published": "2019-09-24"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-09-24-discurso-na-onu-minimiza-crise-ambiental-e-ataca-critic",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qrdbc5vdA4M",
+      "title": "Veja a íntegra do discurso de Bolsonaro na ONU",
+      "source": "Jornal O Globo",
+      "sourceUrl": "https://www.youtube.com/watch?v=qrdbc5vdA4M"
+    },
+    "image": {
+      "url": "https://static.poder360.com.br/uploads/2019/09/bolsonaro.24.set_.2019.alan_.santos.jpg",
+      "local": "assets/bolsonaro-2019-09-24.jpg",
+      "alt": "Bolsonaro no púlpito da Assembleia Geral da ONU em Nova York.",
+      "credit": "Alan Santos/Presidência da República",
+      "sourceUrl": "https://www.poder360.com.br/governo/leia-a-integra-do-discurso-de-bolsonaro-na-onu/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro discursa na abertura da Assembleia Geral da ONU em 24 de setembro de 2019."
+    }
+  },
+  {
+    "date": "2019-10-11",
+    "title": "Resposta formal ao óleo no Nordeste chega sob cobrança",
+    "summary": "Ricardo Salles designou a coordenação do plano de contingência para o derramamento de óleo no Nordeste semanas após as primeiras manchas. O governo afirmou que já realizava ações antes da formalização.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/ambiente/2019/10/analise-de-manual-para-conter-oleo-mostra-que-governo-demorou-a-agir.shtml",
+        "published": "2019-10-26"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data do ofício de designação da coordenação; reportagem posterior. Não significa que nenhuma ação anterior tenha ocorrido.",
+    "id": "registro-2019-10-11-resposta-formal-ao-oleo-no-nordeste-chega-sob-cobranca",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/10/22/senadores-pedem-a-mourao-medidas-urgentes-no-caso-do-vazamento-de-oleo-no-litoral-do-nordeste/mancha_oleo_05.jpg",
+      "local": "assets/noticia-2019-10-11.jpg",
+      "alt": "Manchas já alcançaram mais de 200 localidades nos mais de 2 mil quilômetros de extensão do litoral do Nordeste",
+      "credit": "Simone Santos/ Projeto Praia Limpa",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2019/10/22/senadores-pedem-a-mourao-medidas-urgentes-no-caso-do-vazamento-de-oleo-no-litoral-do-nordeste",
+      "license": "Foto de terceiro republicada pela fonte institucional; crédito original preservado. Não foi identificada licença aberta na página.",
+      "context": "Manchas de óleo no litoral, em fotografia publicada na cobertura de 22 de outubro de 2019; posterior ao marco da timeline."
+    }
+  },
+  {
+    "date": "2019-10-28",
+    "title": "Eduardo Bolsonaro fala em novo AI-5",
+    "summary": "Eduardo Bolsonaro sugeriu um novo AI-5 como resposta a uma eventual radicalização da esquerda. Jair Bolsonaro desautorizou a proposta, e Eduardo afirmou depois que não havia possibilidade de retorno.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2019/10/politicos-reagem-e-chamam-fala-de-eduardo-sobre-ai-5-de-retrocesso-e-risco-a-democracia.shtml",
+        "published": "2019-10-31"
+      }
+    ],
+    "status": "Declaração",
+    "dateNote": "Entrevista realizada em 28/10 e publicada em 31/10. Eduardo era deputado e filho do presidente, não ministro.",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bWCEf4aKHKY",
+      "source": "Registro jornalístico da entrevista",
+      "title": "Eduardo Bolsonaro fala em novo AI-5"
+    },
+    "id": "registro-2019-10-28-eduardo-bolsonaro-fala-em-novo-ai-5",
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2019/10/25/15720494035db391fbe4a50_1572049403_3x2_md.jpg",
+      "local": "assets/bolsonaro-2019-10-28.jpg",
+      "alt": "0",
+      "credit": "Mathilde Missioneiro/Folhapress",
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2019/10/politicos-reagem-e-chamam-fala-de-eduardo-sobre-ai-5-de-retrocesso-e-risco-a-democracia.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Eduardo Bolsonaro em evento em São Paulo em outubro de 2019; imagem de arquivo usada na notícia da fala sobre o AI-5."
+    },
+    "highlight": true
+  },
+  {
+    "date": "2019-11-18",
+    "title": "Inpe revela forte alta no desmatamento amazônico",
+    "summary": "O Inpe divulgou estimativa de 9.762 km² desmatados na Amazônia Legal entre agosto de 2018 e julho de 2019, alta de 29,54% sobre o período anterior.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Inpe",
+        "url": "https://www.inpe.br/noticias/noticia.php?Cod_Noticia=5294",
+        "published": "2019-11-18"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data da divulgação; o período medido inclui cinco meses anteriores ao governo. Estimativa inicial, posteriormente revisada.",
+    "id": "registro-2019-11-18-inpe-revela-forte-alta-no-desmatamento-amazonico"
+  },
+  {
+    "date": "2019-11-29",
+    "title": "Presidente acusa DiCaprio de financiar fogo sem provas",
+    "summary": "Bolsonaro acusou Leonardo DiCaprio de financiar incêndios na Amazônia, sem apresentar provas. O ator negou ter financiado os grupos investigados.",
+    "category": "Meio ambiente",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2019/11/30/bolsonaro-acusa-dicaprio-de-financiar-incendios-na-amazonia-e-ator-rebate.amp.htm",
+        "published": "2019-11-30"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-11-29-presidente-acusa-dicaprio-de-financiar-fogo-sem-provas"
+  },
+  {
+    "id": "registro-2019-12-18-operacao-investiga-imoveis-e-loja-de-chocolates-de-flavio",
+    "date": "2019-12-18",
+    "title": "Investigação da rachadinha faz buscas em imóveis e loja de chocolates de Flávio",
+    "summary": "O MPRJ realizou buscas na investigação da suspeita de rachadinha no antigo gabinete de Flávio Bolsonaro. A Promotoria apontou imóveis e uma loja de chocolates como possíveis meios de lavagem de recursos; a defesa negou as alegações.",
+    "category": "Governo",
+    "importance": 4,
+    "status": "Suspeita investigada",
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2019/12/promotoria-suspeita-que-flavio-usou-pm-imoveis-e-loja-para-lavar-rachadinha.shtml",
+        "published": "2019-12-18"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "highlight": true,
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação.",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/9834_8D9C97F04E1994C7.jpg?w=1200&h=630&crop=1",
+      "local": "assets/flavio-2020-10-19.jpg",
+      "alt": "O senador Flávio Bolsonaro.",
+      "credit": "Pedro França/Agência Senado —19/02/2019",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/mp-denuncia-flavio-bolsonaro-e-fabricio-queiroz/",
+      "license": "Crédito original preservado. Licença aberta não identificada na página consultada.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Retrato de arquivo usado pela CNN na notícia da denúncia; não mostra o ajuizamento.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2019-12-20",
+    "title": "Pergunta sobre Flávio recebe resposta homofóbica",
+    "summary": "Questionado sobre suspeitas envolvendo Flávio Bolsonaro, o presidente respondeu com uma provocação sobre a aparência e a sexualidade de um jornalista.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Exame",
+        "url": "https://exame.com/brasil/perguntado-sobre-flavio-bolsonaro-da-resposta-homofobica-a-jornalista/",
+        "published": "2019-12-20"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2019-12-20-pergunta-sobre-flavio-recebe-resposta-homofobica",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WmJZU0xKozE",
+      "title": "Bolsonaro diz que jornalista \"tem cara de homossexual terrível\"",
+      "source": "Poder360",
+      "sourceUrl": "https://www.poder360.com.br/governo/voce-tem-uma-cara-de-homossexual-terrivel-diz-bolsonaro-a-jornalista/"
+    }
+  },
+  {
+    "date": "2020-01-17",
+    "title": "Secretário da Cultura é demitido após discurso com referência nazista",
+    "summary": "Roberto Alvim foi demitido da Secretaria Especial da Cultura após divulgar um vídeo com trechos semelhantes a um discurso de Joseph Goebbels. Bolsonaro classificou o pronunciamento como insustentável.",
+    "category": "Governo",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2020-01/bolsonaro-exonera-secretario-especial-da-cultura-roberto-alvim",
+        "published": "2020-01-17"
+      }
+    ],
+    "status": "Fato documentado",
+    "rank": 16,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=aNqAiyMxYRw",
+      "source": "Registro jornalístico",
+      "title": "Secretário da Cultura é demitido após discurso com referência nazista"
+    },
+    "id": "registro-2020-01-17-secretario-da-cultura-e-demitido-apos-discurso-com-refe"
+  },
+  {
+    "date": "2020-01-22",
+    "title": "Bolsonaro descreve indígenas como pessoas que estariam se tornando humanas",
+    "summary": "Bolsonaro afirmou que indígenas estariam evoluindo e se tornando seres humanos iguais aos demais. A Articulação dos Povos Indígenas do Brasil anunciou medida judicial.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Poder360 — gravação e transmissão",
+        "url": "https://www.poder360.com.br/governo/tudo-indica-que-ela-aceitara-diz-bolsonaro-sobre-regina-duarte/",
+        "published": "2020-01-23"
+      },
+      {
+        "name": "Poder360 / vídeo",
+        "url": "https://www.youtube.com/watch?v=WX7Xrs2Y3QY",
+        "published": "2020-01-23"
+      }
+    ],
+    "status": "Declaração",
+    "dateNote": "A data corresponde à gravação do vídeo em 22 de janeiro. A transmissão pública ocorreu em 23 de janeiro de 2020, conforme a reportagem do Poder360.",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WX7Xrs2Y3QY",
+      "source": "Poder360 / vídeo",
+      "title": "Bolsonaro descreve indígenas como pessoas que estariam se tornando humanas"
+    },
+    "id": "registro-2020-01-22-bolsonaro-descreve-indigenas-como-pessoas-que-estariam",
+    "image": {
+      "url": "https://static.poder360.com.br/uploads/2020/01/bolsonaro-2.jpg",
+      "local": "assets/bolsonaro-2020-01-22.jpg",
+      "alt": "logo Poder360",
+      "credit": "Reprodução/Facebook — transmissão de Jair Bolsonaro",
+      "sourceUrl": "https://www.poder360.com.br/governo/tudo-indica-que-ela-aceitara-diz-bolsonaro-sobre-regina-duarte/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma do vídeo gravado em 22 de janeiro de 2020 e transmitido na página presidencial em 23 de janeiro, conforme a reportagem do Poder360."
+    }
+  },
+  {
+    "date": "2020-02-12",
+    "title": "Ao defender dólar alto, Guedes reclama de domésticas viajando à Disney",
+    "summary": "Paulo Guedes defendeu o câmbio mais alto e citou viagens de empregadas domésticas à Disney como exemplo dos efeitos do dólar barato.",
+    "category": "Economia",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Agência Estado / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/02/12/guedes-diz-que-com-cambio-baixo-ate-empregada-domestica-estava-indo-para-disney.htm",
+        "published": "2020-02-12"
+      }
+    ],
+    "status": "Declaração",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bLGlc4cVP8Q",
+      "source": "Registro jornalístico",
+      "title": "Ao defender dólar alto, Guedes reclama de domésticas viajando à Disney"
+    },
+    "id": "registro-2020-02-12-ao-defender-dolar-alto-guedes-reclama-de-domesticas-via"
+  },
+  {
+    "date": "2020-03-24",
+    "title": "Em rede nacional, Bolsonaro minimiza a Covid-19 como gripezinha",
+    "summary": "Em pronunciamento na televisão, Bolsonaro chamou a Covid-19 de gripezinha, criticou restrições adotadas por governadores e pediu a volta da rotina.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2020/03/24/bolsonaro-volta-a-se-referir-ao-coronavirus-como-gripezinha-e-criticar-governadores-por-restricoes.amp.htm",
+        "published": "2020-03-24"
+      },
+      {
+        "name": "Folha — reações ao pronunciamento",
+        "url": "https://www1.folha.uol.com.br/poder/2020/03/congresso-governadores-judiciario-empresarios-e-ate-aliados-reagem-a-fala-de-bolsonaro-veja-repercussao.shtml",
+        "published": "2020-03-25"
+      }
+    ],
+    "status": "Declaração",
+    "rank": 3,
+    "highlight": true,
+    "prominence": "Pronunciamento nacional que desencadeou críticas de autoridades, setores econômicos e aliados registradas pela imprensa.",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=zuBs0NVr-70",
+      "source": "Registro jornalístico do pronunciamento",
+      "title": "Em rede nacional, Bolsonaro minimiza a Covid-19 como gripezinha"
+    },
+    "id": "registro-2020-03-24-em-rede-nacional-bolsonaro-minimiza-a-covid-19-como-gri",
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2020/03/25/15851417915e7b581f5cac8_1585141791_3x2_xl.jpg",
+      "local": "assets/bolsonaro-2020-03-24.jpg",
+      "alt": "Bolsonaro durante o pronunciamento em rede nacional de 24 de março de 2020.",
+      "credit": "Reprodução / pronunciamento presidencial em rede nacional",
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2020/03/congresso-governadores-judiciario-empresarios-e-ate-aliados-reagem-a-fala-de-bolsonaro-veja-repercussao.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma do pronunciamento de Bolsonaro de 24 de março de 2020, no qual chamou a Covid-19 de gripezinha."
+    }
+  },
+  {
+    "date": "2020-04-16",
+    "title": "Mandetta é demitido durante a expansão da pandemia",
+    "summary": "Bolsonaro demitiu Luiz Henrique Mandetta do Ministério da Saúde após divergências sobre distanciamento social e medidas contra a Covid-19.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2020/04/16/demitido-por-bolsonaro-mandetta-diz-que-batalha-do-coronavirus-esta-no-comeco.htm",
+        "published": "2020-04-16"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2020-04-16-mandetta-e-demitido-durante-a-expansao-da-pandemia",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/04/mandetta-diz-que-nao-havia-trabalho-conjunto-entre-saude-e-economia/mandetta-cpi-20210504_00611jr-1.jpg",
+      "local": "assets/noticia-2020-04-16.jpg",
+      "alt": "Depoimento do ex-ministro da Saúde, Luiz Henrique Mandetta, durou 8 horas",
+      "credit": "Jefferson Rudy/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/04/mandetta-diz-que-nao-havia-trabalho-conjunto-entre-saude-e-economia",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Foto do depoimento de Mandetta à CPI em 4 de maio de 2021, posterior à demissão; não é imagem da saída do cargo."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qIF8_FarAZs",
+      "title": "Mandetta explica na CPI sua atuação na pandemia — depoimento de 4/5/2021",
+      "source": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/videos/2021/05/ao-vivo-cpi-da-pandemia-ouve-o-ex-ministro-luiz-henrique-mandetta-04-05-2021"
+    }
+  },
+  {
+    "date": "2020-04-19",
+    "title": "Presidente participa de ato que pede intervenção militar e AI-5",
+    "summary": "Bolsonaro discursou diante do Quartel-General do Exército, em Brasília, em uma manifestação que pedia intervenção militar, retorno do AI-5 e fechamento de instituições.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Senado Notícias",
+        "url": "https://www12.senado.leg.br/noticias/materias/2020/04/20/senadores-reagem-a-atuacao-de-bolsonaro-em-ato-que-pediu-intervencao-militar",
+        "published": "2020-04-20"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2020-04-19-presidente-participa-de-ato-que-pede-intervencao-milita",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/3363_1B28CC9A5B33BF4E.jpg?w=1200&h=630&crop=1",
+      "local": "assets/bolsonaro-2020-04-19.jpg",
+      "alt": "Bolsonaro fala a manifestantes em ato que pedia intervenção militar e AI-5.",
+      "credit": "Ueslei Marcelino/Reuters",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/congresso-stf-e-governadores-criticam-bolsonaro-que-se-reune-com-generais/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro discursa no ato diante do Quartel-General do Exército em Brasília em 19 de abril de 2020."
+    },
+    "highlight": true
+  },
+  {
+    "date": "2020-04-22",
+    "title": "Salles propõe aproveitar a pandemia para passar a boiada",
+    "summary": "Em reunião ministerial, Ricardo Salles sugeriu aproveitar a atenção da imprensa à pandemia para alterar normas e simplificar regulações. Usou a expressão passar a boiada.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Poder360",
+        "url": "https://www.poder360.com.br/governo/salles-sugere-ir-passando-a-boiada-para-mudar-regras-durante-pandemia/",
+        "published": "2020-05-22"
+      }
+    ],
+    "status": "Declaração",
+    "dateNote": "A reunião ocorreu em 22 de abril; o vídeo foi divulgado por decisão do STF em 22 de maio.",
+    "rank": 19,
+    "highlight": false,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2020-04-22-salles-propoe-aproveitar-a-pandemia-para-passar-a-boiad",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=BnkMeTpHedM",
+      "title": "Ricardo Salles sugere “ir passando a boiada” e mudar regras durante a pandemia de covid-19",
+      "source": "Poder360",
+      "sourceUrl": "https://www.poder360.com.br/governo/salles-sugere-ir-passando-a-boiada-para-mudar-regras-durante-pandemia/"
+    }
+  },
+  {
+    "date": "2020-04-24",
+    "title": "Moro deixa o governo e denuncia interferência na Polícia Federal",
+    "summary": "Sergio Moro pediu demissão após a exoneração do diretor-geral da Polícia Federal e acusou Bolsonaro de buscar interferência política na corporação. Bolsonaro negou a acusação.",
+    "category": "Governo",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Agência Câmara",
+        "url": "https://www.camara.leg.br/noticias/656653-ao-se-demitir-moro-aponta-tentativa-de-interferencia-politica-na-policia-federal",
+        "published": "2020-04-24"
+      }
+    ],
+    "status": "Denúncia",
+    "rank": 11,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "image": {
+      "url": "https://www.camara.leg.br/midias/image/2020/04/moro2-768x512.jpg",
+      "credit": "Marcello Casal Jr / Agência Brasil",
+      "license": "Reprodução gratuita com crédito obrigatório; autoria Agência Brasil. Condições oficiais do banco de imagens EBC.",
+      "sourceUrl": "https://www.camara.leg.br/noticias/656653-ao-se-demitir-moro-aponta-tentativa-de-interferencia-politica-na-policia-federal/",
+      "alt": "Sergio Moro é aplaudido após anunciar sua demissão do Ministério da Justiça em 24 de abril de 2020.",
+      "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+      "local": "assets/moro-demissao.jpg"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4-pQXCdZOuM",
+      "title": "Pronunciamento da demissão de Sergio Moro",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/moro-pede-demissao-assista-ao-pronunciamento-na-integra/"
+    },
+    "id": "registro-2020-04-24-moro-deixa-o-governo-e-denuncia-interferencia-na-polici"
+  },
+  {
+    "date": "2020-04-28",
+    "title": "Questionado sobre recorde de mortes, Bolsonaro responde: E daí?",
+    "summary": "Questionado sobre o recorde diário de mortes por Covid-19, Bolsonaro respondeu E daí? e disse que não fazia milagres.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/equilibrioesaude/2020/04/e-dai-lamento-quer-que-eu-faca-o-que-diz-bolsonaro-sobre-recorde-de-mortos-por-coronavirus.shtml",
+        "published": "2020-04-28"
+      },
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2020/04/29/e-dai-diz-bolsonaro-sobre-numero-recorde-de-mortes-por-covid-19-no-brasil.amp.htm",
+        "published": "2020-04-29"
+      }
+    ],
+    "status": "Declaração",
+    "rank": 4,
+    "highlight": true,
+    "prominence": "Resposta a um marco de mortes com repercussão crítica documentada pela imprensa nacional e internacional.",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OgwAdKB36N8",
+      "title": "Bolsonaro responde sobre mortes por coronavírus",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/e-a-vida-diz-bolsonaro-sobre-mortes-por-coronavirus/"
+    },
+    "id": "registro-2020-04-28-questionado-sobre-recorde-de-mortes-bolsonaro-responde",
+    "image": {
+      "url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/04/28/615x300/1_49721350673_8196c49f16_c-8087509.jpg",
+      "local": "assets/bolsonaro-2020-04-28.jpg",
+      "alt": "Bolsonaro em fotografia presidencial publicada na cobertura da resposta E daí.",
+      "credit": "Isac Nóbrega/Presidência da República",
+      "sourceUrl": "https://jc.uol.com.br/politica/2020/04/5607538--e-dai--lamento--quer-que-eu-faca-o-que------diz-bolsonaro-sobre-aumento-de-mortes-por-coronavirus.html",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Foto presidencial publicada na reportagem de 28 de abril de 2020; a legenda da fonte não identifica a data da captura, portanto é imagem de arquivo, não fotograma da fala E daí."
+    }
+  },
+  {
+    "date": "2020-05-15",
+    "title": "Teich deixa a Saúde após menos de um mês no cargo",
+    "summary": "Nelson Teich pediu demissão do Ministério da Saúde após menos de um mês no cargo. Ele divergia da ampliação do uso de cloroquina defendida por Bolsonaro.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2020/05/15/pressionado-por-bolsonaro-teich-pede-demissao-do-ministerio-da-saude-apos-menos-de-1-mes.htm",
+        "published": "2020-05-15"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2020-05-15-teich-deixa-a-saude-apos-menos-de-um-mes-no-cargo",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/05/falta-de-autonomia-e-divergencia-sobre-cloroquina-o-levaram-a-sair-do-ministerio-afirma-teich/teich-cpi-20210505_02138jr.jpg",
+      "local": "assets/noticia-2020-05-15.jpg",
+      "alt": "Nelson Teich, que foi ministro da Saúde no governo Bolsonaro por menos de um mês, prestou depoimento na CPI da Pandemia nesta quarta",
+      "credit": "Jefferson Rudy/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/05/falta-de-autonomia-e-divergencia-sobre-cloroquina-o-levaram-a-sair-do-ministerio-afirma-teich",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Foto de Nelson Teich na CPI em 5 de maio de 2021, ao explicar sua saída do cargo em 2020."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ez3dpPWl5DQ",
+      "title": "Teich explica na CPI a falta de autonomia — registro de 5/5/2021",
+      "source": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/videos/2021/05/cpi-da-pandemia-ex-ministro-teich-diz-que-nao-tinha-autonomia-para-exercer-o-cargo"
+    }
+  },
+  {
+    "date": "2020-06-05",
+    "title": "Governo deixa de publicar totais acumulados da Covid-19",
+    "summary": "O governo federal interrompeu a divulgação dos totais acumulados de casos e mortes por Covid-19. Bolsonaro confirmou e defendeu a mudança no dia seguinte.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Deutsche Welle / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2020/06/06/governo-deixa-de-divulgar-total-de-mortos-e-casos-de-covid-19.htm",
+        "published": "2020-06-06"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "A interrupção dos totais ocorreu em 5 de junho; a reportagem e a defesa presidencial são de 6 de junho.",
+    "rank": 17,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2020-06-05-governo-deixa-de-publicar-totais-acumulados-da-covid-19",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina/pazuello_mandetta_teich_queiroga_01.jpg",
+      "credit": "Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina",
+      "alt": "Montagem da Agência Senado reúne Pazuello, Queiroga, Teich e Mandetta em depoimentos à CPI. Publicação de 28 de maio de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "local": "assets/ministros-saude-cpi.jpg",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Montagem publicada pela Agência Senado em 28 de maio de 2021, posterior à instalação da CPI; não é uma fotografia de 27 de abril.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "id": "registro-2020-06-18-queiroz-e-preso-na-casa-de-advogado-dos-bolsonaro",
+    "date": "2020-06-18",
+    "title": "Queiroz é preso na casa de advogado dos Bolsonaro",
+    "summary": "Fabrício Queiroz foi preso preventivamente em Atibaia, em um imóvel de Frederick Wassef. Era investigado como operador do suposto desvio de salários no gabinete de Flávio Bolsonaro; ambos negavam irregularidades.",
+    "category": "Governo",
+    "importance": 5,
+    "status": "Prisão preventiva / suspeita investigada",
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/fabricio-queiroz-e-preso-no-interior-de-sao-paulo/",
+        "published": "2020-06-18"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "highlight": false,
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação.",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/7293_48D733C69004F7FF.jpeg?w=1200&h=630&crop=1",
+      "local": "assets/flavio-2020-06-18.jpg",
+      "alt": "Fabrício Queiroz durante sua prisão em Atibaia.",
+      "credit": "Reprodução/CNN —18/06/2020",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/fabricio-queiroz-e-preso-no-interior-de-sao-paulo/",
+      "license": "Crédito original preservado. Licença aberta não identificada na página consultada.",
+      "context": "Registro real da prisão de Queiroz em18/06/2020."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-hdibhBYKOk",
+      "title": "Fabrício Queiroz é preso no interior de São Paulo (18/06/2020)",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.youtube.com/watch?v=-hdibhBYKOk"
+    }
+  },
+  {
+    "id": "registro-2020-06-25-flavio-obtem-foro-especial-no-caso-das-rachadinhas",
+    "date": "2020-06-25",
+    "title": "Flávio obtém foro especial no caso das rachadinhas",
+    "summary": "A 3ª Câmara Criminal do TJRJ acolheu o pedido da defesa de Flávio Bolsonaro e transferiu a investigação ao Órgão Especial. A decisão reconheceu continuidade do foro entre seus mandatos de deputado estadual e senador.",
+    "category": "Governo",
+    "importance": 3,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/25/julgamento-hc-flavio-bolsonaro.htm",
+        "published": "2020-06-25"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação."
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Após confirmar Covid-19, Bolsonaro tira a máscara diante da imprensa",
+    "summary": "Bolsonaro anunciou que estava infectado pelo coronavírus e defendeu a hidroxicloroquina. Ao final da entrevista, afastou-se dos repórteres e retirou a máscara para mostrar o rosto.",
+    "category": "Saúde",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2020/07/bolsonaro-anuncia-que-contraiu-coronavirus.shtml",
+        "published": "2020-07-07"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2020-07-07-apos-confirmar-covid-19-bolsonaro-tira-a-mascara-diante",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8Y_C-E3CIDk",
+      "title": "Veja a distância entre Bolsonaro e repórteres quando presidente tirou a máscara",
+      "source": "Poder360",
+      "sourceUrl": "https://www.poder360.com.br/governo/veja-a-distancia-entre-bolsonaro-e-reporteres-quando-presidente-tirou-a-mascara/"
+    },
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2020/07/07/15941417115f04ac0fab340_1594141711_3x2_md.jpg",
+      "local": "assets/bolsonaro-2020-07-07.jpg",
+      "alt": "Bolsonaro tirando a máscara do rosto",
+      "credit": "Reprodução/TV Brasil/AFP",
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2020/07/bolsonaro-anuncia-que-contraiu-coronavirus.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma da entrevista de 7 de julho de 2020, após confirmar Covid-19, quando Bolsonaro retirou a máscara."
+    }
+  },
+  {
+    "date": "2020-07-23",
+    "title": "Bolsonaro exibe caixa de cloroquina para emas do Alvorada",
+    "summary": "Bolsonaro foi fotografado mostrando uma caixa de cloroquina às emas do Palácio da Alvorada durante seu isolamento após o diagnóstico de Covid-19.",
+    "category": "Saúde",
+    "importance": 3,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/07/23/bolsonaro-exibe-caixa-de-cloroquina-para-emas-no-palacio-da-alvorada.htm",
+        "published": "2020-07-23"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2020-07-23-bolsonaro-exibe-caixa-de-cloroquina-para-emas-do-alvora",
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/96/2020/07/23/jair-bolsonaro-segura-uma-caixa-de-cloroquina-do-lado-de-fora-do-palacio-da-alvorada-1595549805622_v2_900x506.jpg",
+      "local": "assets/bolsonaro-2020-07-23.jpg",
+      "alt": "Jair Bolsonaro segura uma caixa de cloroquina do lado de fora do Palácio da Alvorada - REUTERS/Adriano Machado",
+      "credit": "Adriano Machado/Reuters",
+      "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2020/07/23/bolsonaro-exibe-caixa-de-cloroquina-para-emas-no-palacio-da-alvorada.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro exibe caixa de cloroquina do lado de fora do Palácio da Alvorada em 23 de julho de 2020."
+    }
+  },
+  {
+    "date": "2020-08-23",
+    "title": "Bolsonaro ameaça agredir repórter que pergunta sobre depósitos a Michelle",
+    "summary": "Questionado sobre depósitos de Fabrício Queiroz na conta de Michelle Bolsonaro, o presidente disse ter vontade de agredir o jornalista.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/vontade-de-encher-tua-boca-de-porrada-diz-bolsonaro-a-jornalista-apos-pergunt/",
+        "published": "2020-08-23"
+      },
+      {
+        "name": "Time — repercussão da ameaça ao repórter",
+        "url": "https://time.com/5882886/jair-bolsonaro-punch-reporter-question/",
+        "published": "2020-08-25"
+      }
+    ],
+    "status": "Declaração",
+    "engagement": {
+      "text": "A Time, citando a BBC Brasil, informou em 25 de agosto de 2020 que a pergunta dirigida ao presidente sobre depósitos a Michelle havia sido repetida mais de 1 milhão de vezes online. O dado se refere à repetição da pergunta, não a uma contagem padronizada de reações negativas.",
+      "sourceUrl": "https://time.com/5882886/jair-bolsonaro-punch-reporter-question/"
+    },
+    "rank": 21,
+    "highlight": true,
+    "prominence": "Ameaça à imprensa com repercussão online documentada pela Time, citando a BBC Brasil.",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=L25t_N9Q_qM",
+      "source": "UOL",
+      "title": "Bolsonaro ameaça agredir repórter que pergunta sobre depósitos a Michelle"
+    },
+    "id": "registro-2020-08-23-bolsonaro-ameaca-agredir-reporter-que-pergunta-sobre-de",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/6588_C22845C12964E718.jpg?w=1200&h=630&crop=1",
+      "local": "assets/bolsonaro-2020-08-23.jpg",
+      "alt": "Bolsonaro próximo à entrada do Palácio do Planalto.",
+      "credit": "Isac Nóbrega/Presidência da República",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/vontade-de-encher-tua-boca-de-porrada-diz-bolsonaro-a-jornalista-apos-pergunt/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro na entrada do Planalto em 5 de junho de 2020; foto de arquivo utilizada pela notícia da ameaça ao jornalista, sem representar o instante da ameaça."
+    }
+  },
+  {
+    "date": "2020-09-22",
+    "title": "Na ONU, Bolsonaro atribui incêndios a indígenas e caboclos",
+    "summary": "Em discurso à Assembleia Geral da ONU, Bolsonaro atribuiu queimadas amazônicas a indígenas e caboclos e apresentou explicações naturais para incêndios no Pantanal. Checagens contestaram essas afirmações.",
+    "category": "Meio ambiente",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "UOL Confere",
+        "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2020/09/22/queimadas-auxilio-emergencial-oleo-no-ne-o-que-bolsonaro-disse-na-onu.amp.htm",
+        "published": "2020-09-22"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2020-09-22-na-onu-bolsonaro-atribui-incendios-a-indigenas-e-cabocl",
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/67/2020/09/22/uol-confere---bolsonaro-onu-1600793286041_v2_450x337.jpg.webp",
+      "local": "assets/bolsonaro-2020-09-22.jpg",
+      "alt": "Jair Bolsonaro (sem partido) em gravação de discurso para a 75ª Assembleia Geral da ONU - Marcos Corrêa/PR",
+      "credit": "Marcos Corrêa/Presidência da República",
+      "sourceUrl": "https://noticias.uol.com.br/confere/ultimas-noticias/2020/09/22/queimadas-auxilio-emergencial-oleo-no-ne-o-que-bolsonaro-disse-na-onu.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro na gravação do discurso transmitido na 75ª Assembleia Geral da ONU, em setembro de 2020."
+    }
+  },
+  {
+    "date": "2020-09-28",
+    "title": "Conama revoga normas de proteção a restingas e manguezais",
+    "summary": "O Conama aprovou a revogação de resoluções que delimitavam áreas protegidas e regulavam o licenciamento. O governo afirmou que outras leis mantinham a proteção; a medida foi contestada judicialmente.",
+    "category": "Meio ambiente",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Agência Câmara",
+        "url": "https://www.camara.leg.br/noticias/696347-proposta-susta-resolucao-do-conama-que-revogou-protecao-a-manguezais-e-restingas",
+        "published": "2020-09-28"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2020-09-28-conama-revoga-normas-de-protecao-a-restingas-e-mangueza",
+    "image": {
+      "url": "https://www.camara.leg.br/midias/image/2020/09/img20190715171442829-768x512.jpg",
+      "local": "assets/noticia-2020-09-28.jpg",
+      "alt": "Caranguejo no manguezal da Área de Proteção Ambiental de Guapi-Mirim (RJ).",
+      "credit": "Tânia Rêgo/Agência Brasil",
+      "sourceUrl": "https://www.camara.leg.br/noticias/696347-proposta-susta-resolucao-do-conama-que-revogou-protecao-a-manguezais-e-restingas",
+      "license": "Agência Brasil: reprodução com crédito, conforme termos da EBC; fotografia publicada pela Câmara.",
+      "context": "Foto de arquivo de manguezal utilizada na reportagem sobre a revogação das normas de proteção em setembro de 2020."
+    }
+  },
+  {
+    "id": "registro-2020-10-19-mprj-denuncia-flavio-queiroz-e-outros15-por-rachadinha",
+    "date": "2020-10-19",
+    "title": "MPRJ denuncia Flávio, Queiroz e outros 15 por rachadinha",
+    "summary": "O MPRJ apresentou denúncia contra Flávio Bolsonaro, Fabrício Queiroz e outras 15 pessoas por organização criminosa, peculato, lavagem de dinheiro e apropriação indébita. Flávio negou as acusações.",
+    "category": "Governo",
+    "importance": 5,
+    "status": "Denúncia ajuizada; posteriormente rejeitada",
+    "sources": [
+      {
+        "name": "MPRJ",
+        "url": "https://transparencia.mprj.mp.br/web/guest/visualizar?noticiaId=96203",
+        "published": "2020-11-04"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "dateNote": "Denúncia ajuizada em 19/10/2020; nota pública do MPRJ divulgada em 04/11/2020.",
+    "highlight": true,
+    "update": "Em 16/05/2022, o TJRJ rejeitou a denúncia após anulação de provas pelo STJ e STF, a pedido do MPRJ. Não houve condenação nesse processo.",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/9834_8D9C97F04E1994C7.jpg?w=1200&h=630&crop=1",
+      "local": "assets/flavio-2020-10-19.jpg",
+      "alt": "O senador Flávio Bolsonaro.",
+      "credit": "Pedro França/Agência Senado —19/02/2019",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/mp-denuncia-flavio-bolsonaro-e-fabricio-queiroz/",
+      "license": "Crédito original preservado. Licença aberta não identificada na página consultada.",
+      "context": "Retrato de arquivo usado pela CNN na notícia da denúncia; não mostra o ajuizamento."
+    }
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Bolsonaro cancela intenção de compra da CoronaVac anunciada por Pazuello",
+    "summary": "Bolsonaro determinou o cancelamento da intenção de comprar 46 milhões de doses da CoronaVac, anunciada pelo Ministério da Saúde menos de um dia antes.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2020/10/21/bolsonaro-diz-que-cancelou-acordo-com-butantan-e-nao-ira-gastar-com-vacina-que-desconhece.amp.htm",
+        "published": "2020-10-21"
+      }
+    ],
+    "status": "Fato documentado",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8OV1jQo5h4E",
+      "source": "AFP",
+      "title": "Bolsonaro cancela intenção de compra da CoronaVac anunciada por Pazuello"
+    },
+    "id": "registro-2020-10-21-bolsonaro-cancela-intencao-de-compra-da-coronavac-anunc"
+  },
+  {
+    "date": "2020-11-10",
+    "title": "Presidente usa insulto ao falar do medo da Covid-19",
+    "summary": "Em discurso no Planalto, Bolsonaro usou uma expressão pejorativa contra pessoas com medo da Covid-19 e disse que o Brasil precisava enfrentar a doença de peito aberto.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2020/11/10/tem-que-deixar-de-ser-um-pais-de-maricas-diz-bolsonaro-sobre-medo-do-coronavirus.amp.htm",
+        "published": "2020-11-10"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2020-11-10-presidente-usa-insulto-ao-falar-do-medo-da-covid-19",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=iWNBfBLOKQM",
+      "title": "Brasil tem que deixar de ser país de maricas, diz Bolsonaro",
+      "source": "Poder360",
+      "sourceUrl": "https://www.youtube.com/watch?v=iWNBfBLOKQM"
+    },
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/26/2020/10/28/o-presidente-jair-bolsonaro-sem-partido-durante-reuniao-com-o-deputado-alex-santana-pdt-ba-e-comitiva-1603933355937_v2_450x337.jpg.webp",
+      "local": "assets/bolsonaro-2020-11-10.jpg",
+      "alt": "O presidente Jair Bolsonaro (sem partido) durante reunião com o deputado Alex Santana (PDT-BA) e comitiva - Alan Santos/PR",
+      "credit": "Alan Santos/Presidência da República",
+      "sourceUrl": "https://noticias.uol.com.br/ultimas-noticias/reuters/2020/11/10/tem-que-deixar-de-ser-um-pais-de-maricas-diz-bolsonaro-sobre-medo-do-coronavirus.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro com o deputado Alex Santana e comitiva em 28 de outubro de 2020; foto de arquivo usada na cobertura da declaração de novembro."
+    }
+  },
+  {
+    "date": "2020-11-30",
+    "title": "Estimativa do Inpe aponta maior desmatamento amazônico da década",
+    "summary": "O Inpe divulgou estimativa de 11.088 km² desmatados na Amazônia Legal no ano de referência de 2020, o maior resultado da década na divulgação preliminar.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Inpe",
+        "url": "https://www.obt.inpe.br/OBT/noticias-obt-inpe/estimativa-de-desmatamento-por-corte-raso-na-amazonia-legal-para-2020-e-de-11-088-km2",
+        "published": "2020-12-01"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data da divulgação da estimativa, relativa ao intervalo de agosto de 2019 a julho de 2020; não é a data de cada corte florestal.",
+    "id": "registro-2020-11-30-estimativa-do-inpe-aponta-maior-desmatamento-amazonico",
+    "highlight": true,
+    "image": {
+      "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145464/brazilfires_amo_2019223.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "credit": "Lauren Dauphin / NASA Earth Observatory; dados MODIS NASA EOSDIS/LANCE e GIBS/Worldview",
+      "license": "Uso informativo autorizado conforme NASA Images and Media Usage Guidelines. Crédito NASA obrigatório.",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fires-in-brazil-145464/",
+      "alt": "Imagem de satélite registra focos de incêndio e fumaça sobre a Amazônia em agosto de 2019.",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "local": "assets/amazonia-2019.jpg",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Imagem de satélite de 11 de agosto de 2019, usada para contextualizar os incêndios daquele mês.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2020-12-17",
+    "title": "Bolsonaro fala em virar jacaré ao questionar responsabilidade por vacina",
+    "summary": "Em Porto Seguro, Bolsonaro disse que não tomaria vacina contra a Covid-19 e ironizou possíveis efeitos adversos com a hipótese de alguém virar jacaré, ao comentar condições de responsabilidade da Pfizer.",
+    "category": "Saúde",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/12/17/bolsonaro-nao-tomarei-vacina-por-ter-anticorpo-pais-teve-2-reinfeccoes.htm",
+        "published": "2020-12-17"
+      }
+    ],
+    "status": "Declaração",
+    "rank": 25,
+    "highlight": false,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2020-12-17-bolsonaro-fala-em-virar-jacare-ao-questionar-responsabi",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=lBCXkVOEH-8",
+      "title": "Bolsonaro: \"Se tomar vacina e virar jacaré não tenho nada a ver com isso\"",
+      "source": "UOL",
+      "sourceUrl": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/12/17/bolsonaro-nao-tomarei-vacina-por-ter-anticorpo-pais-teve-2-reinfeccoes.htm"
+    },
+    "image": {
+      "url": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/PR_4698fdfdd3.jpg",
+      "local": "assets/bolsonaro-2020-12-17.jpg",
+      "alt": "Bolsonaro em fotografia publicada pelo SBT News na cobertura da declaração sobre vacina.",
+      "credit": "Alan Santos/Presidência da República",
+      "sourceUrl": "https://sbtnews.sbt.com.br/noticia/governo/157028-se-virar-jacare-e-problema-seu-diz-bolsonaro-sobre-vacina-da-pfizer",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Foto presidencial utilizada na notícia da fala sobre virar jacaré, em Porto Seguro. A data exata de captura da fotografia não consta na página; não é apresentada como fotograma da fala."
+    }
+  },
+  {
+    "date": "2021-01-14",
+    "title": "Hospitais de Manaus ficam sem oxigênio",
+    "summary": "Hospitais de Manaus ficaram sem oxigênio para atender pacientes. Houve mortes por asfixia e transferências de pacientes para outros estados.",
+    "category": "Saúde",
+    "importance": 5,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/16/alertado-uma-semana-antes-governo-federal-nao-conteve-crise-no-am.amp.htm",
+        "published": "2021-01-16"
+      },
+      {
+        "name": "Reuters / UOL — aviso sobre oxigênio",
+        "url": "https://economia.uol.com.br/noticias/reuters/2021/01/18/governo-federal-foi-informado-do-risco-de-falta-de-oxigenio-6-dias-antes-do-colapso-em-manaus.amp.htm",
+        "published": "2021-01-18"
+      }
+    ],
+    "rank": 2,
+    "highlight": true,
+    "prominence": "Emergência hospitalar com risco imediato à vida e alertas anteriores ao governo federal documentados nas fontes.",
+    "id": "registro-2021-01-14-hospitais-de-manaus-ficam-sem-oxigenio",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/01/15/senadores-cobram-acoes-para-resolver-colapso-por-falta-de-oxigenio-em-manaus/manaus_covid_caos_04.jpg",
+      "local": "assets/noticia-2021-01-14.jpg",
+      "alt": "Na quinta-feira Manaus registrou mortes por asfixia. Médicos e familiares denunciaram a falta de cilindros de oxigênio",
+      "credit": "Bruno Kelly/Amazônia Real",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/01/15/senadores-cobram-acoes-para-resolver-colapso-por-falta-de-oxigenio-em-manaus",
+      "license": "Foto de terceiro republicada pela fonte institucional; crédito original preservado. Não foi identificada licença aberta na página.",
+      "context": "Imagem publicada em 15 de janeiro de 2021 na cobertura da crise hospitalar em Manaus."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ptbsVwxr-_M",
+      "title": "Cobranças por oxigênio em Manaus — cobertura de 15/1/2021",
+      "source": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/videos/2021/01/senadores-cobram-acoes-do-governo-para-solucionar-falta-de-oxigenio-em-hospitais-de-manaus"
+    }
+  },
+  {
+    "id": "registro-2021-01-29-flavio-compra-mansao-de-quase-r-6-milhoes",
+    "date": "2021-01-29",
+    "title": "Flávio compra mansão de quase R$6 milhões",
+    "summary": "Uma escritura registrou a compra de uma mansão em Brasília por Flávio Bolsonaro por R$ 5,97 milhões. Ele afirmou ter usado financiamento do BRB e recursos da venda de um imóvel e de uma franquia.",
+    "category": "Governo",
+    "importance": 4,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "Poder360",
+        "url": "https://www.poder360.com.br/governo/flavio-bolsonaro-nega-irregularidades-em-compra-de-mansao-por-r-6-milhoes/",
+        "published": "2021-03-02"
+      },
+      {
+        "name": "Agência Brasil — desfecho da denúncia",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-05/justica-do-rio-arquiva-processo-de-caso-de-supostas-rachadinhas",
+        "published": "2022-05-16"
+      }
+    ],
+    "dateNote": "Data da escritura:29/01/2021. Compra revelada publicamente em 01/03/2021.",
+    "update": "Na rachadinha, denúncia rejeitada em 16/05/2022 após anulação de provas; não houve condenação.",
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/27646_14AC2F3BB57B5570.jpeg?w=1200&h=630&crop=1",
+      "local": "assets/flavio-2021-01-29.jpg",
+      "alt": "Mansão adquirida por Flávio Bolsonaro em Brasília.",
+      "credit": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-compra-mansao-avaliada-em-r-6-milhoes-em-brasilia/",
+      "license": "Crédito original preservado. Licença aberta não identificada na página consultada.",
+      "context": "Imagem real do imóvel publicada pela CNN em01/03/2021; não é registro da assinatura da escritura."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=QaCzITp5U3k",
+      "title": "Flávio Bolsonaro compra mansão em Brasília",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.youtube.com/watch?v=QaCzITp5U3k"
+    }
+  },
+  {
+    "date": "2021-02-19",
+    "title": "Troca na Petrobras aumenta temor de interferência política",
+    "summary": "Bolsonaro anunciou Joaquim Silva e Luna para substituir Roberto Castello Branco na presidência da Petrobras após criticar reajustes dos combustíveis.",
+    "category": "Economia",
+    "importance": 4,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "El País Brasil",
+        "url": "https://brasil.elpais.com/economia/2021-02-19/bolsonaro-indica-general-como-novo-presidente-da-petrobras-e-poe-mercado-em-alerta-por-temor-de-intervencao.html",
+        "published": "2021-02-19"
+      }
+    ],
+    "id": "registro-2021-02-19-troca-na-petrobras-aumenta-temor-de-interferencia-polit",
+    "image": {
+      "url": "https://imagenes.elpais.com/resizer/v2/VJZ6NYZKDVH6JDADJBSOZXZ4EQ.jpg?auth=ada434bee0be19b9d21ae35c8bf8e4ba23256ecef36e86dd9eeefe1ec12ca4f1&width=414",
+      "local": "assets/bolsonaro-2021-02-19.jpg",
+      "alt": "O general Joaquim Silva e Luna foi indicado por Bolsonaro para ser o novo presidente da Petrobras. Marcelo Camargo (Agência Brasil)",
+      "credit": "Marcelo Camargo/Agência Brasil",
+      "sourceUrl": "https://brasil.elpais.com/economia/2021-02-19/bolsonaro-indica-general-como-novo-presidente-da-petrobras-e-poe-mercado-em-alerta-por-temor-de-intervencao.html",
+      "license": "Fotografia institucional com crédito obrigatório; seguir termos de reprodução da Câmara/Agência Brasil.",
+      "context": "Joaquim Silva e Luna em foto de arquivo utilizada na cobertura da indicação à Petrobras em fevereiro de 2021."
+    }
+  },
+  {
+    "date": "2021-02-26",
+    "title": "IBGE divulga desemprego anual recorde em 2020",
+    "summary": "O IBGE divulgou taxa média de desemprego de 13,5% em 2020, o maior valor da série iniciada em 2012 na divulgação original.",
+    "category": "Economia",
+    "importance": 4,
+    "status": "Fato documentado",
+    "dateNote": "Data da divulgação de dados de 2020. Valores reproduzem a publicação original e podem ter revisões posteriores. A pandemia é parte do contexto, sem atribuição causal exclusiva ao governo.",
+    "sources": [
+      {
+        "name": "IBGE",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/30130-desemprego-recua-para-13-9-no-quarto-trimestre-mas-e-o-maior-para-o-ano-desde-2012",
+        "published": "2021-02-26"
+      }
+    ],
+    "id": "registro-2021-02-26-ibge-divulga-desemprego-anual-recorde-em-2020",
+    "image": {
+      "url": "https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_sociais/2021_02/PNADC_HOME.jpg",
+      "local": "assets/indicador-2021-02-26.jpg",
+      "credit": "Alerrandre Barros/Agência IBGE Notícias",
+      "alt": "Pessoas na fila por um trabalho, em fotografia publicada com a divulgação do desemprego de 2020.",
+      "sourceUrl": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/30130-desemprego-recua-para-13-9-no-quarto-trimestre-mas-e-o-maior-para-o-ano-desde-2012",
+      "context": "Pessoas na fila por um trabalho, em fotografia publicada com a divulgação do desemprego de 2020.",
+      "license": "Imagem publicada na Agência IBGE Notícias, com o crédito fotográfico informado na reportagem. Consulte condições de reprodução na fonte."
+    }
+  },
+  {
+    "date": "2021-03-01",
+    "title": "Bolsonaro afirma não ter errado na condução da pandemia",
+    "summary": "Bolsonaro afirmou a apoiadores que não havia cometido erros na condução da pandemia, voltou a defender medicamentos e criticou medidas de isolamento.",
+    "category": "Saúde",
+    "importance": 3,
+    "status": "Declaração",
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/equilibrioesaude/2021/03/nao-errei-nenhuma-diz-bolsonaro-ao-insistir-em-tratamento-precoce-e-em-criticas-a-isolamento.shtml",
+        "published": "2021-03-01"
+      }
+    ],
+    "id": "registro-2021-03-01-bolsonaro-afirma-nao-ter-errado-na-conducao-da-pandemia"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Primeira estimativa do IBGE mostra forte queda do PIB em 2020",
+    "summary": "O IBGE divulgou uma estimativa de queda de 4,1% do PIB brasileiro em 2020.",
+    "category": "Economia",
+    "importance": 4,
+    "status": "Fato documentado",
+    "dateNote": "Divulgação em 3 de março de 2021, referente à economia em 2020. Estimativa contemporânea, não o valor atualmente revisado; não atribui a queda exclusivamente a decisões presidenciais.",
+    "sources": [
+      {
+        "name": "IBGE",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/30165-pib-cai-4-1-em-2020-e-fecha-o-ano-em-r-7-4-trilhoes",
+        "published": "2021-03-03"
+      }
+    ],
+    "id": "registro-2021-03-03-primeira-estimativa-do-ibge-mostra-forte-queda-do-pib-e"
+  },
+  {
+    "date": "2021-03-04",
+    "title": "Presidente chama reação à pandemia de mimimi",
+    "summary": "Em cerimônia em Goiás, Bolsonaro chamou reações à pandemia de mimimi e criticou restrições adotadas por governadores e prefeitos.",
+    "category": "Saúde",
+    "importance": 5,
+    "status": "Declaração",
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2021/03/04/comprar-vacina-so-se-for-na-casa-da-tua-mae-diz-bolsonaro.amp.htm",
+        "published": "2021-03-04"
+      }
+    ],
+    "id": "registro-2021-03-04-presidente-chama-reacao-a-pandemia-de-mimimi",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=emzGs0ir7Ig",
+      "title": "“Chega de frescura, vão ficar chorando até quando?”, pergunta Bolsonaro",
+      "source": "Poder360",
+      "sourceUrl": "https://www.poder360.com.br/governo/chega-de-frescura-vao-ficar-chorando-ate-quando-pergunta-bolsonaro/"
+    }
+  },
+  {
+    "date": "2021-03-30",
+    "title": "Crise leva à saída dos três comandantes das Forças Armadas",
+    "summary": "Os comandantes do Exército, da Marinha e da Aeronáutica deixaram seus cargos um dia depois da substituição do ministro da Defesa.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2021/03/31/brazil-bolsonaro-armed-forces-leaders-resign",
+        "published": "2021-03-30"
+      }
+    ],
+    "id": "registro-2021-03-30-crise-leva-a-saida-dos-tres-comandantes-das-forcas-arma",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/03/30/senadores-querem-esclarecimentos-sobre-suposto-plano-de-golpe-por-parte-de-bolsonaro/20210330_00360jr.jpg",
+      "local": "assets/noticia-2021-03-30.jpg",
+      "alt": "Vários parlamentares defenderam audiência com o novo ministro da Defesa, Walter Souza Braga Netto",
+      "credit": "Jefferson Rudy/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/03/30/senadores-querem-esclarecimentos-sobre-suposto-plano-de-golpe-por-parte-de-bolsonaro",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Registro da cobertura institucional na data indicada na reportagem."
+    }
+  },
+  {
+    "date": "2021-04-27",
+    "title": "Senado instala CPI para investigar a resposta à pandemia",
+    "summary": "O Senado instalou a CPI da Pandemia para investigar ações e omissões do governo federal e o uso de recursos da União no combate à Covid-19.",
+    "category": "Saúde",
+    "importance": 5,
+    "status": "Investigação",
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/2021/04/27/cpi-da-covid-19-deve-ser-instalada-nesta-terca-feira-27-entenda/",
+        "published": "2021-04-27"
+      }
+    ],
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina/pazuello_mandetta_teich_queiroga_01.jpg",
+      "credit": "Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina",
+      "alt": "Montagem da Agência Senado reúne Pazuello, Queiroga, Teich e Mandetta em depoimentos à CPI. Publicação de 28 de maio de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "local": "assets/ministros-saude-cpi.jpg",
+      "context": "Montagem publicada pela Agência Senado em 28 de maio de 2021, posterior à instalação da CPI; não é uma fotografia de 27 de abril."
+    },
+    "id": "registro-2021-04-27-senado-instala-cpi-para-investigar-a-resposta-a-pandemi"
+  },
+  {
+    "date": "2021-05-09",
+    "title": "Reportagem revela emendas opacas e suspeitas em compras de tratores",
+    "summary": "Reportagem do Estadão revelou a distribuição de recursos por emendas de relator e apontou preços de equipamentos acima das referências oficiais. O governo contestou as denúncias.",
+    "category": "Governo",
+    "importance": 5,
+    "status": "Denúncia",
+    "dateNote": "Data da revelação jornalística; os repasses descritos começaram antes.",
+    "sources": [
+      {
+        "name": "UOL / Estadão",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2021/05/09/governo-orcamento-secreto-tratores-acima-preco-jornal-estado-sao-paulo.htm",
+        "published": "2021-05-09"
+      }
+    ],
+    "id": "registro-2021-05-09-reportagem-revela-emendas-opacas-e-suspeitas-em-compras",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento/20190215_0552x.jpg",
+      "local": "assets/noticia-2021-05-09.jpg",
+      "alt": "Palácio do Planalto, com Congresso ao fundo: parlamentares precisam debater uma solução que aperfeiçoe o uso das emendas, defendem senadores",
+      "credit": "Cléber Medeiros/Senado Federal",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Palácio do Planalto com Congresso ao fundo, imagem de arquivo de 2019 publicada na cobertura do orçamento secreto em novembro de 2021."
+    }
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Operação da PF atinge Salles e o Ministério do Meio Ambiente",
+    "summary": "A PF realizou buscas em endereços ligados a Ricardo Salles e ao Ministério do Meio Ambiente na Operação Akuanduba, que investigava suspeitas de facilitação de contrabando de madeira e crimes contra a administração pública.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "status": "Investigação",
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-operacao-da-pf/",
+        "published": "2021-05-19"
+      }
+    ],
+    "id": "registro-2021-05-19-operacao-da-pf-atinge-salles-e-o-ministerio-do-meio-amb",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=i24KB8b44F8",
+      "title": "Ricardo Salles e Ministério do Meio Ambiente são alvos de operação da PF",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/nacional/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-operacao-da-pf/"
+    },
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/2021/06/35826_4F2D8389E9897A3F-2.jpg",
+      "local": "assets/bolsonaro-2021-05-19.jpg",
+      "alt": "O ministro do Meio Ambiente, Ricardo Salles",
+      "credit": "Pablo Valadares/Câmara dos Deputados",
+      "sourceUrl": "https://www.cnnbrasil.com.br/nacional/ricardo-salles-e-ministerio-do-meio-ambiente-sao-alvos-de-operacao-da-pf/",
+      "license": "Fotografia institucional com crédito obrigatório; seguir termos de reprodução da Câmara/Agência Brasil.",
+      "context": "Ricardo Salles em audiência de comissões da Câmara; foto de arquivo publicada na cobertura da operação da PF de maio de 2021."
+    }
+  },
+  {
+    "date": "2021-05-25",
+    "title": "Na CPI, Mayra defende cloroquina e admite divulgação do TrateCov",
+    "summary": "Em depoimento à CPI da Pandemia, Mayra Pinheiro defendeu medicamentos sem eficácia comprovada contra Covid-19 e foi questionada sobre a divulgação do aplicativo TrateCov e a atuação do Ministério da Saúde em Manaus.",
+    "category": "Saúde",
+    "importance": 4,
+    "status": "Investigação",
+    "sources": [
+      {
+        "name": "Agência Senado",
+        "url": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina",
+        "published": "2021-05-28"
+      }
+    ],
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina/mayra___20210525_01916jr.jpg",
+      "credit": "Jefferson Rudy / Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina",
+      "alt": "Mayra Pinheiro em depoimento à CPI da Pandemia em 25 de maio de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "local": "assets/mayra-cpi.jpg"
+    },
+    "id": "registro-2021-05-25-na-cpi-mayra-defende-cloroquina-e-admite-divulgacao-do"
+  },
+  {
+    "date": "2021-06-19",
+    "title": "Brasil ultrapassa meio milhão de mortos por Covid-19",
+    "summary": "O Brasil ultrapassou 500 mil mortes por Covid-19, segundo o levantamento do consórcio de veículos de imprensa.",
+    "category": "Saúde",
+    "importance": 5,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/brasil/2021/06/4932403-brasil-ultrapassa-a-marca-de-500-mil-mortes-pela-covid-19.html",
+        "published": "2021-06-19"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2021/06/19/brazil-covid-deaths-bolsonaro-protests-photos",
+        "published": "2021-06-19"
+      }
+    ],
+    "rank": 9,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2021-06-19-brasil-ultrapassa-meio-milhao-de-mortos-por-covid-19",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/19/senadores-lamentam-500-mil-mortes-por-covid-19-cpi-divulga-nota/20210505_03896jr.jpg",
+      "local": "assets/noticia-2021-06-19.jpg",
+      "alt": "Renan, Omar e Randolfe, comando da CPI: \"Asseguramos que os responsáveis pagarão por seus erros\"",
+      "credit": "Jefferson Rudy/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/06/19/senadores-lamentam-500-mil-mortes-por-covid-19-cpi-divulga-nota",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Foto de arquivo do comando da CPI da Pandemia, publicada na cobertura do marco de 500 mil mortes; não mostra vítimas."
+    }
+  },
+  {
+    "date": "2021-06-25",
+    "title": "Irmãos Miranda relatam à CPI alerta a Bolsonaro sobre Covaxin",
+    "summary": "Luis Ricardo Miranda e Luis Miranda relataram à CPI pressões e inconsistências na negociação da Covaxin. O deputado afirmou que havia avisado Bolsonaro sobre o caso.",
+    "category": "Governo",
+    "importance": 5,
+    "status": "Denúncia",
+    "dateNote": "Data do depoimento público; o encontro mencionado com Bolsonaro ocorreu anteriormente.",
+    "sources": [
+      {
+        "name": "TV Senado",
+        "url": "https://www12.senado.leg.br/tv/programas/noticias-1/2021/06/irmaos-miranda-afirmam-na-cpi-que-avisaram-jair-bolsonaro-sobre-pressoes-para-importacao-da-covaxin",
+        "published": "2021-06-25"
+      },
+      {
+        "name": "TV Senado — vídeo",
+        "url": "https://www.youtube.com/watch?v=bIucpVaLww4",
+        "published": "2021-06-25"
+      }
+    ],
+    "rank": 13,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/25/deputado-e-servidor-reafirmam-denuncias-contra-governo-na-compra-da-covaxin/Miranda_20210625_01568e.jpg",
+      "credit": "Edilson Rodrigues / Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/06/25/deputado-e-servidor-reafirmam-denuncias-contra-governo-na-compra-da-covaxin",
+      "alt": "Luis Miranda e Luis Ricardo Miranda prestam depoimento sobre a Covaxin à CPI em 25 de junho de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "local": "assets/covaxin-cpi.jpg"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=5UdxWLtjDME",
+      "title": "CPI da Pandemia ouve deputado e servidor sobre Covaxin — 25/6/2021",
+      "source": "TV Senado",
+      "sourceUrl": "https://www.youtube.com/watch?v=5UdxWLtjDME"
+    },
+    "id": "registro-2021-06-25-irmaos-miranda-relatam-a-cpi-alerta-a-bolsonaro-sobre-c"
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Live prometia provas contra urnas e apresenta alegações desmentidas",
+    "summary": "Bolsonaro realizou uma transmissão em que prometia demonstrar fraudes eleitorais. A checagem do Aos Fatos identificou informações falsas e distorções nas alegações apresentadas.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Declaração",
+    "sources": [
+      {
+        "name": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/bolsonaro-promete-provas-de-fraude-mas-apresenta-alegacoes-ja-desmentidas-sobre-urnas-eletronicas/",
+        "published": "2021-07-29"
+      }
+    ],
+    "rank": 23,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2021-07-29-live-prometia-provas-contra-urnas-e-apresenta-alegacoes",
+    "image": {
+      "url": "https://static.poder360.com.br/uploads/2022/07/Jair-Bolsonaro-embaixadores-18-jul-2022.jpg",
+      "local": "assets/bolsonaro-2022-07-18.jpg",
+      "alt": "Bolsonaro apresenta alegações sobre urnas a embaixadores no Alvorada.",
+      "credit": "Reprodução/Palácio do Planalto — 18 de julho de 2022",
+      "sourceUrl": "https://www.poder360.com.br/eleicoes/leia-a-integra-do-que-disse-bolsonaro-a-embaixadores/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Fotograma da apresentação de Bolsonaro aos embaixadores no Palácio da Alvorada em 18 de julho de 2022.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Blindados passam pelo Planalto no dia da votação sobre voto impresso",
+    "summary": "Bolsonaro acompanhou um desfile de veículos militares diante do Planalto no dia da votação do voto impresso na Câmara. A proposta foi derrotada no plenário.",
+    "category": "Democracia",
+    "importance": 4,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2021/08/10/bolsonaro-desfile-de-tanques-palacio-do-planalto.htm",
+        "published": "2021-08-10"
+      },
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2021/08/camara-barra-voto-impresso-esvazia-discurso-golpista-e-impoe-derrota-a-bolsonaro-em-dia-de-blindados.shtml",
+        "published": "2021-08-10"
+      }
+    ],
+    "id": "registro-2021-08-10-blindados-passam-pelo-planalto-no-dia-da-votacao-sobre",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi/20210810_00098pf.jpg",
+      "local": "assets/noticia-2021-08-10.jpg",
+      "alt": "Ao lado do ministro da Defesa, Braga Neto (3º à dir.), Bolsonaro acena do alto da rampa do Planalto para militares e manifestantes ",
+      "credit": "Pedro França/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Bolsonaro e autoridades acompanham o desfile militar no Planalto em 10 de agosto de 2021."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-ysy1xJP4mY",
+      "title": "Desfile de blindados na Esplanada e reação no Senado",
+      "source": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/tv/programas/noticias-1/2021/08/senadores-repercutem-desfile-de-150-tanques-e-blindados-na-esplanada"
+    }
+  },
+  {
+    "date": "2021-09-07",
+    "title": "Bolsonaro anuncia que não cumprirá decisões do STF",
+    "summary": "Em discurso na Avenida Paulista, Bolsonaro afirmou que deixaria de cumprir decisões de Alexandre de Moraes e atacou a atuação do Supremo Tribunal Federal.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Declaração",
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-discurso-manifestacao-avenida-paulista/",
+        "published": "2021-09-07"
+      }
+    ],
+    "rank": 7,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2021-09-07-bolsonaro-anuncia-que-nao-cumprira-decisoes-de-moraes",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=fCVytc8ydFE",
+      "title": "Bolsonaro discursa para apoiadores em São Paulo | CNN 360",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/bolsonaro-discurso-manifestacao-avenida-paulista/"
+    },
+    "image": {
+      "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/09/AGF20210907236.jpg",
+      "local": "assets/bolsonaro-2021-09-07.jpg",
+      "alt": "Bolsonaro ao microfone durante ato na Avenida Paulista em 7 de setembro de 2021.",
+      "credit": "Ettore Chiereguini/Agif/Estadão Conteúdo",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/bolsonaro-discurso-manifestacao-avenida-paulista/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro discursa na manifestação da Avenida Paulista em 7 de setembro de 2021."
+    }
+  },
+  {
+    "date": "2021-10-21",
+    "title": "Bolsonaro divulga associação falsa entre vacina e Aids",
+    "summary": "Bolsonaro associou a vacinação contra Covid-19 ao desenvolvimento de Aids em sua transmissão semanal. Entidades médicas refutaram a afirmação, e Facebook e Instagram removeram a gravação.",
+    "category": "Saúde",
+    "importance": 5,
+    "status": "Declaração",
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/facebook-e-instagram-excluem-live-em-que-bolsonaro-relaciona-vacina-contra-covid-a-aids/",
+        "published": "2021-10-25"
+      },
+      {
+        "name": "SBT Brasil — vídeo",
+        "url": "https://www.youtube.com/watch?v=pKeF0CurENo",
+        "published": "2021-10-25"
+      }
+    ],
+    "video": {
+      "url": "https://www.youtube.com/watch?v=pKeF0CurENo",
+      "source": "SBT Brasil — vídeo",
+      "title": "Bolsonaro divulga associação falsa entre vacina e Aids"
+    },
+    "id": "registro-2021-10-21-bolsonaro-divulga-associacao-falsa-entre-vacina-e-aids"
+  },
+  {
+    "date": "2021-10-26",
+    "title": "CPI aprova relatório que recomenda indiciamento de Bolsonaro",
+    "summary": "A CPI da Pandemia aprovou seu relatório final, que recomendava o indiciamento de Bolsonaro por nove infrações.",
+    "category": "Saúde",
+    "importance": 5,
+    "status": "Investigação",
+    "sources": [
+      {
+        "name": "Agência Senado",
+        "url": "https://www12.senado.leg.br/noticias/infomaterias/materias/2021/10/26/apos-seis-meses-cpi-da-pandemia-e-encerrada-com-80-pedidos-de-indiciamento",
+        "published": "2021-10-26"
+      },
+      {
+        "name": "TV Senado — vídeo",
+        "url": "https://www.youtube.com/watch?v=Anzi0pe35pU",
+        "published": "2021-10-26"
+      }
+    ],
+    "rank": 10,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/cpi-da-pandemia-o-que-mudou-na-nova-versao-do-relatorio/20211026_02362pf.jpg",
+      "credit": "Pedro França / Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/10/26/cpi-da-pandemia-o-que-mudou-na-nova-versao-do-relatorio",
+      "alt": "Renan Calheiros durante apresentação do relatório da CPI da Pandemia em 26 de outubro de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "local": "assets/cpi-relatorio.jpg"
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Anzi0pe35pU",
+      "source": "TV Senado — vídeo",
+      "title": "CPI aprova relatório que recomenda indiciamento de Bolsonaro"
+    },
+    "id": "registro-2021-10-26-cpi-aprova-relatorio-que-recomenda-indiciamento-de-bols"
+  },
+  {
+    "date": "2021-10-26",
+    "title": "Receita retém joias não declaradas trazidas por comitiva oficial",
+    "summary": "A Receita Federal reteve joias não declaradas trazidas pela comitiva de Bento Albuquerque da Arábia Saudita no aeroporto de Guarulhos. O ministro tentou recuperar as peças, sem sucesso.",
+    "category": "Governo",
+    "importance": 5,
+    "status": "Fato documentado",
+    "dateNote": "Apreensão em 26 de outubro de 2021, conforme reportagem de março de 2023. A revelação pública também tem ficha própria em 2023.",
+    "sources": [
+      {
+        "name": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/politica/2023/03/5078851-imagens-mostram-enviado-de-bolsonaro-tentando-retirar-joias-em-aeroporto.html",
+        "published": "2023-03-08"
+      }
+    ],
+    "rank": 15,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2021-10-26-receita-retem-joias-nao-declaradas-trazidas-por-comitiv",
+    "image": {
+      "url": "https://midias.correiobraziliense.com.br/_midias/png/2023/03/08/675x450/1_print-27577900.png?20230308154256?20230308154256",
+      "local": "assets/bolsonaro-2022-12-28.jpg",
+      "alt": "Enviado do gabinete presidencial diante de funcionários na tentativa de recuperar joias no aeroporto.",
+      "credit": "Reprodução Globo/G1 — imagem obtida pela GloboNews",
+      "sourceUrl": "https://www.correiobraziliense.com.br/politica/2023/03/5078851-imagens-mostram-enviado-de-bolsonaro-tentando-retirar-joias-em-aeroporto.html",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Imagem de câmera de segurança de 28 de dezembro de 2022 mostra a tentativa de recuperar as joias retidas; divulgada em março de 2023.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2021-11-05",
+    "title": "Rosa Weber suspende pagamentos do orçamento secreto",
+    "summary": "Rosa Weber suspendeu a execução das emendas de relator RP9, questionadas por falta de transparência na distribuição dos recursos.",
+    "category": "Governo",
+    "importance": 4,
+    "status": "Decisão judicial",
+    "sources": [
+      {
+        "name": "Supremo Tribunal Federal",
+        "url": "https://noticias.stf.jus.br/postsnoticias/ministra-rosa-weber-suspende-execucao-de-orcamento-paralelo/",
+        "published": "2021-11-05"
+      },
+      {
+        "name": "UOL / Estadão",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2021/11/05/rosa-weber-suspende-pagamentos-do-orcamento-secreto.htm",
+        "published": "2021-11-05"
+      }
+    ],
+    "id": "registro-2021-11-05-rosa-weber-suspende-pagamentos-do-orcamento-secreto",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/11/17/rodrigo-pacheco-defende-execucao-transparente-do-orcamento/20211117_03535pg.jpg",
+      "local": "assets/noticia-2021-11-05.jpg",
+      "alt": "O presidente do Senado deu entrevista coletiva após o encontro com o presidente do STF, Luiz Fux",
+      "credit": "Pedro Gontijo/Senado Federal",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/11/17/rodrigo-pacheco-defende-execucao-transparente-do-orcamento",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Rodrigo Pacheco em coletiva após reunião com o STF em 17 de novembro de 2021; acompanhamento posterior da suspensão das emendas."
+    }
+  },
+  {
+    "date": "2021-11-18",
+    "title": "Desmatamento divulgado após COP26 chega ao maior nível em 15 anos",
+    "summary": "O Inpe divulgou estimativa de 13.235 km² de desmatamento na Amazônia Legal, aumento de aproximadamente 22% sobre o período anterior. A divulgação ocorreu após a COP26.",
+    "category": "Meio ambiente",
+    "importance": 5,
+    "status": "Fato documentado",
+    "dateNote": "Data da divulgação da estimativa anual, referente ao período de agosto de 2020 a julho de 2021.",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/colunas/rubens-valente/2021/11/18/nota-tecnica-inpe-desmatamento-amazonia-cop-governo-bolsonaro.htm",
+        "published": "2021-11-18"
+      },
+      {
+        "name": "DW Brasil",
+        "url": "https://www.dw.com/pt-br/governo-mentiu-sobre-o-desmatamento-na-cop26/a-59884852",
+        "published": "2021-11-19"
+      }
+    ],
+    "id": "registro-2021-11-18-desmatamento-divulgado-apos-cop26-chega-ao-maior-nivel"
+  },
+  {
+    "date": "2021-12-16",
+    "title": "Presidente pede nomes de técnicos que aprovaram vacina infantil",
+    "summary": "Após a Anvisa aprovar a vacina da Pfizer para crianças de cinco a onze anos, Bolsonaro disse ter solicitado os nomes dos responsáveis pela decisão e indicou que os divulgaria.",
+    "category": "Saúde",
+    "importance": 4,
+    "status": "Declaração",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/12/16/bolsonaro-quer-nomes-da-anvisa-que-liberaram-vacina-contra-covid-a-criancas.htm",
+        "published": "2021-12-16"
+      },
+      {
+        "name": "Anvisa",
+        "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-aprova-vacina-da-pfizer-contra-covid-para-criancas-de-5-a-11-anos/",
+        "published": "2021-12-16"
+      }
+    ],
+    "id": "registro-2021-12-16-presidente-pede-nomes-de-tecnicos-que-aprovaram-vacina",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-l3qiXVGga0",
+      "title": "Bolsonaro quer nomes da Anvisa que liberaram vacina contra covid a crianças",
+      "source": "UOL",
+      "sourceUrl": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/12/16/bolsonaro-quer-nomes-da-anvisa-que-liberaram-vacina-contra-covid-a-criancas.htm"
+    }
+  },
+  {
+    "date": "2021-12-30",
+    "title": "Visita a parque de diversões provoca críticas durante enchentes na Bahia",
+    "summary": "Bolsonaro visitou o parque Beto Carrero enquanto era cobrado para acompanhar as enchentes na Bahia. Em resposta, publicou imagens de visitas anteriores a áreas atingidas por desastres.",
+    "category": "Governo",
+    "importance": 3,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2021/12/30/bolsonaro-video-enchentes-beto-carrero-folga.htm",
+        "published": "2021-12-30"
+      }
+    ],
+    "id": "registro-2021-12-30-visita-a-parque-de-diversoes-provoca-criticas-durante-e"
+  },
+  {
+    "date": "2022-01-06",
+    "title": "Bolsonaro ataca a Anvisa e desestimula vacinação de crianças",
+    "summary": "Bolsonaro criticou a autorização da Anvisa para vacinar crianças e afirmou desconhecer mortes infantis por Covid-19, apesar dos registros oficiais.",
+    "category": "Saúde",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/01/06/bolsonaro-faz-pregacao-contra-vacina-pediatrica-da-covid-19-e-ataca-anvisa.htm",
+        "published": "2022-01-06"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2022-01-06-bolsonaro-ataca-a-anvisa-e-desestimula-vacinacao-infant",
+    "highlight": true,
+    "image": {
+      "url": "https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/PR_4698fdfdd3.jpg",
+      "local": "assets/bolsonaro-2020-12-17.jpg",
+      "alt": "Bolsonaro em fotografia publicada pelo SBT News na cobertura da declaração sobre vacina.",
+      "credit": "Alan Santos/Presidência da República",
+      "sourceUrl": "https://sbtnews.sbt.com.br/noticia/governo/157028-se-virar-jacare-e-problema-seu-diz-bolsonaro-sobre-vacina-da-pfizer",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Foto presidencial utilizada na notícia da fala sobre virar jacaré, em Porto Seguro. A data exata de captura da fotografia não consta na página; não é apresentada como fotograma da fala.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-01-11",
+    "title": "Inflação de 2021 fecha em 10,06%, pressionando famílias",
+    "summary": "O IBGE divulgou que o IPCA acumulou 10,06% em 2021, com altas de combustíveis e energia entre os componentes do resultado.",
+    "category": "Economia",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "IBGE",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/32725-inflacao-sobe-0-73-em-dezembro-e-fecha-2021-com-alta-de-10-06",
+        "published": "2022-01-11"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data de divulgação do indicador; período de referência: janeiro a dezembro de 2021.",
+    "id": "registro-2022-01-11-inflacao-de-2021-fecha-em-10-06-pressionando-familias",
+    "image": {
+      "url": "https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_economicas/2022_01/IPCA_HOME_HelenaPontes.png",
+      "local": "assets/indicador-2022-01-11.jpg",
+      "credit": "Helena Pontes/Agência IBGE Notícias",
+      "alt": "Abastecimento de combustível, em fotografia da reportagem do IBGE sobre a inflação de 2021.",
+      "sourceUrl": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/32725-inflacao-sobe-0-73-em-dezembro-e-fecha-2021-com-alta-de-10-06",
+      "context": "Abastecimento de combustível, em fotografia da reportagem do IBGE sobre a inflação de 2021.",
+      "license": "Imagem publicada na Agência IBGE Notícias, com o crédito fotográfico informado na reportagem. Consulte condições de reprodução na fonte."
+    }
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Em plena crise na Ucrânia, Bolsonaro declara solidariedade à Rússia",
+    "summary": "Durante encontro com Vladimir Putin em Moscou, Bolsonaro declarou solidariedade à Rússia sem especificar a que se referia.",
+    "category": "Governo",
+    "importance": 3,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/02/16/bolsonaro-diz-a-putin-que-e-solidario-a-russia-quer-colaboracao-comercial-com-brasil.htm",
+        "published": "2022-02-16"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2022-02-16-em-plena-crise-na-ucrania-bolsonaro-declara-solidarieda"
+  },
+  {
+    "date": "2022-03-21",
+    "title": "Áudio expõe prioridade a amigos de pastores no MEC",
+    "summary": "A Folha divulgou uma gravação em que Milton Ribeiro dizia dar prioridade a municípios ligados a pastores e mencionava um pedido de Bolsonaro. Ribeiro negou favorecimento e afirmou que o presidente pedira apenas atendimento aos indicados.",
+    "category": "Governo",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2022/03/ministro-da-educacao-diz-priorizar-amigos-de-pastor-a-pedido-de-bolsonaro-ouca-audio.shtml",
+        "published": "2022-03-21"
+      },
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2022/03/bolsonaro-so-pediu-que-indicados-de-pastores-fossem-recebidos-diz-milton-ribeiro.shtml",
+        "published": "2022-03-22"
+      }
+    ],
+    "status": "Denúncia",
+    "dateNote": "Data da divulgação do áudio; a data exata da reunião gravada não está estabelecida nesta ficha.",
+    "id": "registro-2022-03-21-audio-expoe-prioridade-a-amigos-de-pastores-no-mec",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MJ5d-ks9Aw4",
+      "title": "Cobertura do áudio e convocação de Milton Ribeiro — 25/3/2022",
+      "source": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/videos/2022/03/comissao-deve-ouvir-milton-ribeiro-na-quinta-feira-sobre-audio-vazado"
+    },
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2022/03/20/16478211896237c1854e3f8_1647821189_3x2_md.jpg",
+      "local": "assets/bolsonaro-2022-03-21.jpg",
+      "alt": "Há três homens na foto, de terno: o ministro está à esquerda, de olhos fechados e cabeça inclinada; o outro segura fala ao microfone e o terceiro aparece ao fundo",
+      "credit": "Reprodução/redes sociais — imagem publicada pela Folha de S.Paulo",
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2022/03/bolsonaro-so-pediu-que-indicados-de-pastores-fossem-recebidos-diz-milton-ribeiro.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Milton Ribeiro com os pastores Arilton Moura e Gilmar Santos em culto em Goiânia; fotografia ligada aos personagens do áudio do MEC."
+    }
+  },
+  {
+    "date": "2022-03-28",
+    "title": "Milton Ribeiro deixa o MEC sob denúncias de favorecimento",
+    "summary": "Milton Ribeiro pediu demissão e foi exonerado do Ministério da Educação após denúncias de intermediação irregular de verbas por pastores.",
+    "category": "Governo",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2022/03/bolsonaro-deve-afastar-milton-ribeiro-do-ministerio-da-educacao.shtml",
+        "published": "2022-03-28"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2022-03-28-milton-ribeiro-deixa-o-mec-sob-denuncias-de-favorecimen",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/03/30/comissao-de-educacao-mantem-depoimento-de-ex-ministro-milton-ribeiro-nesta-quinta/milton_ribeiro_01.jpg",
+      "local": "assets/noticia-2022-03-28.jpg",
+      "alt": "Como requerimentos foram convertidos em convite, a comissão ainda aguarda a confirmação do ex-ministro para esclarecer favorecimento indevido no repasse de recursos do FNDE",
+      "credit": "Isac Nóbrega/PR",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2022/03/30/comissao-de-educacao-mantem-depoimento-de-ex-ministro-milton-ribeiro-nesta-quinta",
+      "license": "Foto de terceiro republicada pela fonte institucional; crédito original preservado. Não foi identificada licença aberta na página.",
+      "context": "Foto de arquivo de Milton Ribeiro utilizada pela Agência Senado na cobertura da saída do MEC."
+    },
+    "highlight": true
+  },
+  {
+    "date": "2022-04-21",
+    "title": "Bolsonaro concede perdão a Daniel Silveira um dia após condenação",
+    "summary": "Bolsonaro concedeu graça individual a Daniel Silveira no dia seguinte à condenação do deputado pelo STF por coação no curso do processo e ataques ao Estado Democrático de Direito.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/04/21/um-dia-apos-condenacao-pelo-stf-bolsonaro-anuncia-indulto-a-deputado-daniel-silveira.htm",
+        "published": "2022-04-21"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2022-04-21-bolsonaro-concede-perdao-a-daniel-silveira-um-dia-apos",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=F4RwB94qAC0",
+      "title": "Bolsonaro decreta perdão da pena a Daniel Silveira; veja íntegra | CNN 360º",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.youtube.com/watch?v=F4RwB94qAC0"
+    }
+  },
+  {
+    "date": "2022-05-23",
+    "title": "Mais uma troca na Petrobras: presidente cai após apenas 39 dias",
+    "summary": "O governo anunciou a substituição de José Mauro Coelho na Petrobras 39 dias após sua posse. Caio Paes de Andrade foi indicado para assumir.",
+    "category": "Economia",
+    "importance": 3,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/mercado/2022/05/governo-troca-de-novo-presidente-da-petrobras.shtml",
+        "published": "2022-05-23"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2022-05-23-mais-uma-troca-na-petrobras-presidente-cai-apos-apenas",
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2021/08/19/1629418475611ef3ebced42_1629418475_3x2_md.jpg",
+      "local": "assets/bolsonaro-2022-05-23.jpg",
+      "alt": "0",
+      "credit": "Michel Jesus/Câmara dos Deputados",
+      "sourceUrl": "https://www1.folha.uol.com.br/mercado/2022/05/governo-troca-de-novo-presidente-da-petrobras.shtml",
+      "license": "Fotografia institucional com crédito obrigatório; seguir termos de reprodução da Câmara/Agência Brasil.",
+      "context": "Caio Mário Paes de Andrade em imagem de arquivo de 2021 utilizada na notícia da troca na Petrobras em maio de 2022."
+    }
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Genivaldo morre asfixiado durante abordagem da PRF",
+    "summary": "Genivaldo de Jesus Santos morreu após ser colocado no compartimento traseiro de uma viatura da PRF, onde agentes empregaram gás, em Umbaúba, Sergipe.",
+    "category": "Direitos",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Poder360",
+        "url": "https://www.poder360.com.br/brasil/homem-e-morto-durante-abordagem-da-prf-em-sergipe/",
+        "published": "2022-05-25"
+      },
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/07/caso-genivaldo-veredito.ghtm",
+        "published": "2024-12-07"
+      }
+    ],
+    "status": "Fato documentado",
+    "rank": 24,
+    "highlight": false,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2022-05-25-genivaldo-morre-asfixiado-durante-abordagem-da-prf",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/15/comissao-de-direitos-humanos-visita-familiares-de-genivaldo-assassinado-em-sergipe/whatsapp-image-2022-06-14-at-17-20.jpg",
+      "local": "assets/noticia-2022-05-25.jpg",
+      "alt": "Rogério Carvalho (PT-SE), Alesandro Vieira (Cidadania-SE) e Humberto Costa (PT-PE) se reuniram com Maria Fabiana dos Santos, viúva, e demais familiares de Genivaldo",
+      "credit": "Roberto Stuckert Filho/Gabinete do Senador Humberto Costa",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2022/06/15/comissao-de-direitos-humanos-visita-familiares-de-genivaldo-assassinado-em-sergipe",
+      "license": "Foto de terceiro republicada pela fonte institucional; crédito original preservado. Não foi identificada licença aberta na página.",
+      "context": "Senadores com a viúva e familiares de Genivaldo em junho de 2022; registro posterior à morte, sem exibir a violência."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wk9M1IPJIhg",
+      "title": "Acompanhamento do caso Genivaldo — cobertura de 1/6/2022",
+      "source": "TV Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/videos/2022/06/senadores-vao-a-sergipe-acompanhar-desdobramentos-do-caso-genivaldo"
+    }
+  },
+  {
+    "date": "2022-06-07",
+    "title": "Bolsonaro chama viagem de Dom e Bruno de aventura não recomendável",
+    "summary": "Bolsonaro chamou a viagem de Dom Phillips e Bruno Pereira de aventura não recomendável enquanto os dois estavam desaparecidos no Vale do Javari.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/06/07/aventura-diz-bolsonaro-sobre-sumico-de-reporter-ingles-e-ex-funai-no-am.htm",
+        "published": "2022-06-07"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2022-06-07-bolsonaro-chama-viagem-de-dom-e-bruno-de-aventura-nao-r",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/06/13/senadores-se-solidarizam-com-familias-de-bruno-pereira-e-dom-phillips-e-pedem-justica/whatsapp-image-2022-06-13-at-12-21-50.jpeg",
+      "local": "assets/noticia-2022-06-07.jpg",
+      "alt": "O jornalista Dom Phillips e o indigenista Bruno Pereira, que desapareceram no dia 5 na Amazônia",
+      "credit": "Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2022/06/13/senadores-se-solidarizam-com-familias-de-bruno-pereira-e-dom-phillips-e-pedem-justica",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Retratos de arquivo de Dom Phillips e Bruno Pereira publicados na cobertura do desaparecimento em junho de 2022."
+    },
+    "video": {
+      "url": "https://www.youtube.com/watch?v=C_rip4V0f5A",
+      "title": "Bolsonaro sobre desaparecidos na Amazônia: ‘Região completamente selvagem. Tudo pode acontecer’",
+      "source": "UOL",
+      "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/06/07/aventura-diz-bolsonaro-sobre-sumico-de-reporter-ingles-e-ex-funai-no-am.htm"
+    }
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Pesquisa estima 33,1 milhões de brasileiros passando fome",
+    "summary": "A Rede Penssan divulgou pesquisa que estimava 33,1 milhões de pessoas em insegurança alimentar grave no Brasil.",
+    "category": "Economia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Instituto de Economia Agrícola / SP",
+        "url": "https://iea.agricultura.sp.gov.br/ftpiea/AIA/AIA-31-2022.pdf",
+        "published": "2022-07"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data do lançamento do II Vigisan, conforme publicação do IEA. Coleta entre novembro de 2021 e abril de 2022.",
+    "rank": 12,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2022-06-08-pesquisa-estima-33-1-milhoes-de-brasileiros-passando-fo",
+    "image": {
+      "url": "https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_sociais/2022_12/SIS_Pobreza_HOME_AgenciaBrasil.jpg",
+      "local": "assets/indicador-2022-12-02.jpg",
+      "credit": "Agência Brasil",
+      "alt": "Fotografia utilizada pelo IBGE na divulgação do aumento da pobreza em 2021; imagem de contexto social.",
+      "sourceUrl": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/35687-em-2021-pobreza-tem-aumento-recorde-e-atinge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Fotografia utilizada pelo IBGE na divulgação do aumento da pobreza em 2021; imagem de contexto social.",
+      "license": "Imagem publicada na Agência IBGE Notícias, com o crédito fotográfico informado na reportagem. Consulte condições de reprodução na fonte.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-06-22",
+    "title": "Ex-ministro Milton Ribeiro é preso em investigação sobre verbas do MEC",
+    "summary": "A PF prendeu preventivamente Milton Ribeiro na Operação Acesso Pago, que investigava suspeitas de corrupção e tráfico de influência na liberação de recursos da Educação. A defesa contestou a prisão.",
+    "category": "Governo",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/06/22/pf-deflagra-operacao-contra-ex-ministro-e-pastores-ligados-a-bolsonaro.amp.htm",
+        "published": "2022-06-22"
+      }
+    ],
+    "status": "Investigação",
+    "id": "registro-2022-06-22-ex-ministro-milton-ribeiro-e-preso-em-investigacao-sobr",
+    "video": {
+      "url": "https://tvbrasil.ebc.com.br/reporter-brasil/2022/06/ex-ministro-milton-ribeiro-e-preso-em-operacao-da-pf",
+      "title": "Prisão de Milton Ribeiro — reportagem de 22/6/2022",
+      "source": "TV Brasil",
+      "sourceUrl": "https://tvbrasil.ebc.com.br/reporter-brasil/2022/06/ex-ministro-milton-ribeiro-e-preso-em-operacao-da-pf"
+    },
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/54/2022/03/18/13jan2021---reuniao-do-ministro-da-educacao-com-prefeitos-em-brasilia-com-a-presenca-dos-pastores-gilmar-santos-e-arilton-moura-1647614358027_v2_450x1.png",
+      "local": "assets/bolsonaro-2022-06-22.jpg",
+      "alt": "13.jan.2021 - Reunião do ministro da Educação com prefeitos em Brasília, com a presença dos pastores Gilmar Santos e Arilton Moura - Reprodução/Instagram/mribeiro.mec",
+      "credit": "Reprodução/Instagram/mribeiro.mec",
+      "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/06/22/pf-deflagra-operacao-contra-ex-ministro-e-pastores-ligados-a-bolsonaro.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Milton Ribeiro em reunião com prefeitos e os pastores Gilmar Santos e Arilton Moura em 13 de janeiro de 2021; imagem de arquivo usada na cobertura da prisão."
+    }
+  },
+  {
+    "date": "2022-07-05",
+    "title": "Reunião ministerial registra pressão para reagir antes das eleições",
+    "summary": "Em reunião com ministros, Bolsonaro insinuou fraude eleitoral, atacou ministros do Supremo e cobrou uma reação dos aliados. A gravação foi divulgada em 2024.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/se-a-gente-reagir-apos-eleicao-vai-ter-caos-no-brasil-disse-bolsonaro-em-reuniao-com-ministros-em-2022/",
+        "published": "2024-02-09"
+      },
+      {
+        "name": "STF — condenação posterior na AP 2668",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "published": "2025-09-11"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Reunião em 5 de julho de 2022; reportagem e divulgação do vídeo em fevereiro de 2024.",
+    "update": "Em 11 de setembro de 2025, a Primeira Turma do STF condenou Jair Bolsonaro na AP 2668 por sua participação na tentativa de golpe, fixando pena de 27 anos e três meses. A nota não altera a data do episódio histórico narrado.",
+    "id": "registro-2022-07-05-reuniao-ministerial-registra-pressao-para-reagir-antes",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=9_KmgPNEqoc",
+      "title": "Bolsonaro em reunião de 2022: Se reagirmos após eleição, vai ter caos | LIVE CNN",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/se-a-gente-reagir-apos-eleicao-vai-ter-caos-no-brasil-disse-bolsonaro-em-reuniao-com-ministros-em-2022/"
+    },
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2024/02/11/170766036465c8d44c87384_1707660364_3x2_md.jpg",
+      "local": "assets/bolsonaro-2022-07-05.jpg",
+      "alt": "Bolsonaro dirige reunião com ministros em 5 de julho de 2022.",
+      "credit": "Reprodução / gravação da reunião ministerial divulgada na investigação",
+      "sourceUrl": "https://www1.folha.uol.com.br/amp/poder/2024/03/ex-comandantes-reforcam-suspeitas-e-implicam-bolsonaro-em-investigacao-de-trama-golpista.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma da reunião ministerial de 5 de julho de 2022, divulgado na cobertura de fevereiro de 2024."
+    }
+  },
+  {
+    "date": "2022-07-18",
+    "title": "Bolsonaro usa encontro com embaixadores para atacar urnas sem provas",
+    "summary": "Bolsonaro reuniu embaixadores no Alvorada e apresentou alegações falsas ou sem provas contra as urnas e o sistema eleitoral. O TSE rebateu as afirmações.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Reuters / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/07/18/bolsonaro-chama-embaixadores-para-atacar-processo-eleitoral-com-afirmacoes-falsas.htm",
+        "published": "2022-07-18"
+      },
+      {
+        "name": "Aos Fatos",
+        "url": "https://www.aosfatos.org/noticias/bolsonaro-usa-encontro-com-embaixadores-para-repetir-informacoes-falsas-sobre-eleicao/",
+        "published": "2022-07-18"
+      }
+    ],
+    "status": "Declaração",
+    "rank": 6,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2022-07-18-bolsonaro-usa-encontro-com-embaixadores-para-atacar-urn",
+    "image": {
+      "url": "https://static.poder360.com.br/uploads/2022/07/Jair-Bolsonaro-embaixadores-18-jul-2022.jpg",
+      "local": "assets/bolsonaro-2022-07-18.jpg",
+      "alt": "Bolsonaro apresenta alegações sobre urnas a embaixadores no Alvorada.",
+      "credit": "Reprodução/Palácio do Planalto — 18 de julho de 2022",
+      "sourceUrl": "https://www.poder360.com.br/eleicoes/leia-a-integra-do-que-disse-bolsonaro-a-embaixadores/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma da apresentação de Bolsonaro aos embaixadores no Palácio da Alvorada em 18 de julho de 2022."
+    }
+  },
+  {
+    "date": "2022-08-28",
+    "title": "Bolsonaro ataca Vera Magalhães em debate presidencial",
+    "summary": "Bolsonaro atacou pessoalmente Vera Magalhães em um debate presidencial após uma pergunta sobre vacinação. Na saída, negou que sua atitude tivesse sido misógina.",
+    "category": "Direitos",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2022/08/bolsonaro-ataca-jornalista-vera-magalhaes-e-tebet-e-diz-que-sao-uma-vergonha-veja-video.shtml",
+        "published": "2022-08-28"
+      }
+    ],
+    "status": "Declaração",
+    "id": "registro-2022-08-28-bolsonaro-ataca-vera-magalhaes-em-debate-presidencial",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=FW8WolJijqw",
+      "title": "Bolsonaro ataca jornalista Vera Magalhães no debate: 'Vergonha para o jornalismo brasileiro'",
+      "source": "UOL",
+      "sourceUrl": "https://noticias.uol.com.br/videos/2022/08/28/bolsonaro-ataca-jornalista-vera-magalhaes-no-debate-vergonha-para-o-jornalismo-brasileiro.htm"
+    },
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2022/08/28/1661736378630c15badedcc_1661736378_3x2_md.jpg",
+      "local": "assets/bolsonaro-2022-08-28.jpg",
+      "alt": "O presidente Jair Bolsonaro durante o debate - Marlene Bergamo / Folhapress",
+      "credit": "Marlene Bergamo/Folhapress",
+      "sourceUrl": "https://www1.folha.uol.com.br/poder/2022/08/bolsonaro-ataca-jornalista-vera-magalhaes-e-tebet-e-diz-que-sao-uma-vergonha-veja-video.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Bolsonaro durante o debate presidencial promovido pela Band em 28 de agosto de 2022."
+    }
+  },
+  {
+    "date": "2022-09-07",
+    "title": "Comemoração do 7 de Setembro vira palanque político",
+    "summary": "Após o desfile de 7 de Setembro em Brasília, Bolsonaro fez um discurso com apelos eleitorais, puxou um coro de imbrochável ao lado de Michelle e comparou primeiras-damas.",
+    "category": "Governo",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/eleicoes/2022/09/07/bolsonaro-puxa-coro-de-imbroxavel-e-compara-mulheres-michelle-e-princesa.htm",
+        "published": "2022-09-07"
+      },
+      {
+        "name": "Reuters / UOL",
+        "url": "https://economia.uol.com.br/noticias/reuters/2022/09/08/imbrochavel-impulsiona-criticas-a-bolsonaro-nas-redes-no-7-de-setembro-aponta-quaest.htm",
+        "published": "2022-09-08"
+      }
+    ],
+    "status": "Declaração",
+    "engagement": {
+      "text": "Segundo monitoramento Quaest citado pela Reuters, entre 0h e 18h de 7 de setembro de 2022, 53% das publicações sobre os atos foram críticas, 45% favoráveis e 2% neutras. As variações de imbrochável somaram cerca de 39,2 mil menções de 25,87 mil autores únicos.",
+      "sourceUrl": "https://economia.uol.com.br/noticias/reuters/2022/09/08/imbrochavel-impulsiona-criticas-a-bolsonaro-nas-redes-no-7-de-setembro-aponta-quaest.htm"
+    },
+    "rank": 22,
+    "highlight": false,
+    "prominence": "Monitoramento publicado registra maioria de publicações críticas e pico de menções à declaração.",
+    "id": "registro-2022-09-07-bicentenario-vira-palanque-e-coro-sobre-potencia-sexual",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=7F-hHF3hM6Q",
+      "title": "Imbrochável: Bolsonaro dá beijo em Michelle e puxa coro com público em discurso de 7 de Setembro",
+      "source": "UOL",
+      "sourceUrl": "https://noticias.uol.com.br/eleicoes/2022/09/07/bolsonaro-puxa-coro-de-imbroxavel-e-compara-mulheres-michelle-e-princesa.htm"
+    },
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/48/2022/09/07/jair-bolsonaro-discursa-em-brasilia-ao-lado-da-esposa-michelle-1662561769212_v2_750x421.png",
+      "local": "assets/bolsonaro-2022-09-07.jpg",
+      "alt": "Jair Bolsonaro discursa em Brasília ao lado da esposa, Michelle, - Reprodução - Reprodução",
+      "credit": "Reprodução / transmissão do discurso presidencial",
+      "sourceUrl": "https://noticias.uol.com.br/eleicoes/2022/09/07/bolsonaro-puxa-coro-de-imbroxavel-e-compara-mulheres-michelle-e-princesa.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma do discurso de Bolsonaro ao lado de Michelle em Brasília, após o desfile de 7 de setembro de 2022."
+    }
+  },
+  {
+    "date": "2022-10-14",
+    "title": "Fala sobre adolescentes venezuelanas provoca indignação",
+    "summary": "Em um podcast, Bolsonaro usou a expressão pintou um clima ao relatar um encontro com adolescentes venezuelanas e insinuou prostituição. A Cáritas e os venezuelanos negaram a insinuação; Bolsonaro disse ter sido tirado de contexto e pediu desculpas por eventual constrangimento.",
+    "category": "Direitos",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2022/10/bolsonaro-diz-que-pintou-um-clima-com-menininhas-de-14-e-15-anos-e-video-vira-municao-de-adversarios.shtml",
+        "published": "2022-10-15"
+      },
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-bolsonaro-atua-para-conter-danos-apos-video-sobre-venezuelanas.shtml",
+        "published": "2022-10-17"
+      },
+      {
+        "name": "Jornal do Commercio",
+        "url": "https://jc.uol.com.br/politica/2022/10/15102069-pintou-um-clima-bolsonaro-grava-video-e-pede-desculpas-por-declaracoes-sobre-meninas-venezuelanas.html",
+        "published": "2022-10-18"
+      }
+    ],
+    "status": "Declaração",
+    "dateNote": "Entrevista realizada em 14 de outubro; reportagem de repercussão publicada no dia seguinte.",
+    "id": "registro-2022-10-14-fala-sobre-adolescentes-venezuelanas-provoca-indignacao",
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2022/10/15/1665873507634b366326d63_1665873507_3x2_xl.jpg",
+      "local": "assets/bolsonaro-2022-10-14.jpg",
+      "alt": "Bolsonaro de boné e fones durante a entrevista ao podcast Paparazzo Rubro-Negro.",
+      "credit": "Reprodução / podcast Paparazzo Rubro-Negro",
+      "sourceUrl": "https://www1.folha.uol.com.br/amp/poder/2022/10/bolsonaro-diz-que-pintou-um-clima-com-menininhas-de-14-e-15-anos-e-video-vira-municao-de-adversarios.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Fotograma do podcast em outubro de 2022 no qual Bolsonaro fez a declaração sobre adolescentes venezuelanas; imagem publicada na cobertura de 15 de outubro."
+    }
+  },
+  {
+    "date": "2022-10-30",
+    "title": "Blitze da PRF sobre ônibus de eleitores geram denúncias e intervenção",
+    "summary": "Operações da PRF em veículos de transporte público no segundo turno provocaram denúncias de obstáculos ao deslocamento de eleitores, principalmente no Nordeste. A Justiça Eleitoral cobrou explicações.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/justica-da-bahia-convoca-superintendente-da-prf-para-prestar-esclarecimentos.shtml",
+        "published": "2022-10-30"
+      }
+    ],
+    "status": "Denúncia",
+    "id": "registro-2022-10-30-blitze-da-prf-sobre-onibus-de-eleitores-geram-denuncias",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/06/20/cpmi-ex-diretor-nega-que-prf-tenha-dificultado-voto-de-eleitores-no-nordeste/20230620_01235e.jpg",
+      "local": "assets/noticia-2022-10-30.jpg",
+      "alt": "O ex-diretor da Polícia Rodoviária Federal Silvinei Vasques em depoimento para a CPMI do 8 de Janeiro",
+      "credit": "Edilson Rodrigues/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2023/06/20/cpmi-ex-diretor-nega-que-prf-tenha-dificultado-voto-de-eleitores-no-nordeste",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Silvinei Vasques presta depoimento à CPMI em 20 de junho de 2023 sobre as operações da PRF no segundo turno de 2022."
+    }
+  },
+  {
+    "date": "2022-11-04",
+    "title": "Live de Cerimedo espalha alegações falsas contra as urnas",
+    "summary": "Fernando Cerimedo transmitiu uma apresentação com acusações infundadas de fraude nas urnas. Segundo a PF, integrantes do grupo investigado coordenaram sua circulação.",
+    "category": "Democracia",
+    "importance": 4,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "CNN Brasil — papel dos indiciados",
+        "url": "https://www.cnnbrasil.com.br/politica/saiba-qual-foi-o-papel-dos-37-indiciados-por-tentativa-de-golpe-segundo-a-pf/",
+        "published": "2024-11-27"
+      }
+    ],
+    "id": "registro-2022-11-04-live-de-cerimedo-espalha-alegacoes-falsas-contra-as-urnas",
+    "video": {
+      "url": "https://www.cnnbrasil.com.br/politica/saiba-qual-foi-o-papel-dos-37-indiciados-por-tentativa-de-golpe-segundo-a-pf/",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/saiba-qual-foi-o-papel-dos-37-indiciados-por-tentativa-de-golpe-segundo-a-pf/",
+      "source": "CNN Brasil",
+      "title": "Reportagem em vídeo sobre as revelações da PF — cobertura de novembro de 2024"
+    }
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Plano para matar Lula, Alckmin e Moraes é impresso no Planalto",
+    "summary": "Segundo a PF, Mário Fernandes imprimiu o plano Punhal Verde Amarelo no Planalto. O documento previa os assassinatos de Lula, Alckmin e Moraes para impedir a posse dos eleitos.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "CNN Brasil — impressão do plano",
+        "url": "https://www.cnnbrasil.com.br/politica/plano-do-punhal-verde-e-amarelo-para-golpe-foi-impresso-no-palacio-do-planalto-diz-pf/",
+        "published": "2024-11-26"
+      },
+      {
+        "name": "Polícia Federal — relatório divulgado pelo STF (PDF)",
+        "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/11/19102018/Oficio-no-4810932-2024.PF_.PET-13236.pdf",
+        "published": "2024-11-19"
+      }
+    ],
+    "id": "registro-2022-11-09-plano-para-matar-lula-alckmin-e-moraes-e-impresso-no-planalto",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "video": {
+      "url": "https://www.cnnbrasil.com.br/politica/plano-do-punhal-verde-e-amarelo-para-golpe-foi-impresso-no-palacio-do-planalto-diz-pf/",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/plano-do-punhal-verde-e-amarelo-para-golpe-foi-impresso-no-palacio-do-planalto-diz-pf/",
+      "source": "CNN Brasil",
+      "title": "Reportagem em vídeo sobre as revelações da PF — cobertura de novembro de 2024"
+    },
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento/20190215_0552x.jpg",
+      "local": "assets/noticia-2021-05-09.jpg",
+      "alt": "Palácio do Planalto, com Congresso ao fundo: parlamentares precisam debater uma solução que aperfeiçoe o uso das emendas, defendem senadores",
+      "credit": "Cléber Medeiros/Senado Federal",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Palácio do Planalto com Congresso ao fundo, imagem de arquivo de 2019 publicada na cobertura do orçamento secreto em novembro de 2021.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-11-12",
+    "title": "Reunião na casa de Braga Netto trata de ações para impedir a posse",
+    "summary": "Segundo a PF, Mauro Cid, Rafael Martins de Oliveira e Hélio Ferreira Lima se reuniram com Braga Netto para tratar do planejamento golpista. Braga Netto negou conhecer o Punhal Verde Amarelo.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "UOL / Agência Estado — reunião e plano de assassinatos",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2024/11/20/pf-relata-plano-para-assassinar-lula-alckmin-e-moraes-em-trama-de-golpe.htm",
+        "published": "2024-11-20"
+      },
+      {
+        "name": "Polícia Federal — relatório divulgado pelo STF (PDF)",
+        "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/11/19102018/Oficio-no-4810932-2024.PF_.PET-13236.pdf",
+        "published": "2024-11-19"
+      }
+    ],
+    "id": "registro-2022-11-12-reuniao-na-casa-de-braga-netto-trata-de-acoes-para-impedir-a-posse",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/03/30/senadores-querem-esclarecimentos-sobre-suposto-plano-de-golpe-por-parte-de-bolsonaro/20210330_00360jr.jpg",
+      "local": "assets/noticia-2021-03-30.jpg",
+      "alt": "Vários parlamentares defenderam audiência com o novo ministro da Defesa, Walter Souza Braga Netto",
+      "credit": "Jefferson Rudy/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/03/30/senadores-querem-esclarecimentos-sobre-suposto-plano-de-golpe-por-parte-de-bolsonaro",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Fotografia de arquivo de Braga Netto, publicada em março de 2021 pela Agência Senado. Não retrata o encontro de novembro de 2022."
+    }
+  },
+  {
+    "date": "2022-11-18",
+    "title": "Braga Netto pede que apoiadores não percam a fé",
+    "summary": "Braga Netto pediu a manifestantes no Alvorada que não perdessem a fé.",
+    "category": "Democracia",
+    "importance": 4,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "UOL — cronologia da investigação",
+        "url": "https://www.bol.uol.com.br/noticias/2024/11/20/cronologia-plano-golpe-entorno-bolsonaro.htm",
+        "published": "2024-11-20"
+      }
+    ],
+    "id": "registro-2022-11-18-braga-netto-pede-que-apoiadores-nao-percam-a-fe",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/03/30/senadores-querem-esclarecimentos-sobre-suposto-plano-de-golpe-por-parte-de-bolsonaro/20210330_00360jr.jpg",
+      "local": "assets/noticia-2021-03-30.jpg",
+      "alt": "Vários parlamentares defenderam audiência com o novo ministro da Defesa, Walter Souza Braga Netto",
+      "credit": "Jefferson Rudy/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/03/30/senadores-querem-esclarecimentos-sobre-suposto-plano-de-golpe-por-parte-de-bolsonaro",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Fotografia de arquivo de Braga Netto, publicada em março de 2021 pela Agência Senado. Não retrata o encontro de novembro de 2022."
+    }
+  },
+  {
+    "date": "2022-11-19",
+    "title": "Primeira versão da minuta golpista é apresentada a Bolsonaro, segundo PF",
+    "summary": "Segundo a investigação da PF, uma minuta que previa novas eleições e prisões de autoridades foi apresentada a Bolsonaro no Alvorada. Mauro Cid afirmou que Bolsonaro pediu alterações; a defesa negou concordância com uma ruptura democrática.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "GZH — registros do Alvorada e mensagens examinados pela PF",
+        "url": "https://gauchazh.clicrbs.com.br/politica/noticia/2024/02/minuta-do-golpe-foi-apresentada-a-bolsonaro-em-novembro-de-2022-diz-pf-confira-a-cronologia-clsluq2zh008z01db5t3xno73.html",
+        "published": "2024-02-14"
+      }
+    ],
+    "id": "registro-2022-11-19-primeira-versao-da-minuta-golpista-e-apresentada-a-bolsonaro-segundo-p",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "image": {
+      "url": "https://f.i.uol.com.br/fotografia/2024/02/11/170766036465c8d44c87384_1707660364_3x2_md.jpg",
+      "local": "assets/bolsonaro-2022-07-05.jpg",
+      "alt": "Bolsonaro dirige reunião com ministros em 5 de julho de 2022.",
+      "credit": "Reprodução / gravação da reunião ministerial divulgada na investigação",
+      "sourceUrl": "https://www1.folha.uol.com.br/amp/poder/2024/03/ex-comandantes-reforcam-suspeitas-e-implicam-bolsonaro-em-investigacao-de-trama-golpista.shtml",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Fotograma da reunião ministerial de 5 de julho de 2022, divulgado na cobertura de fevereiro de 2024.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-11-23",
+    "title": "TSE rejeita contestação às urnas e aplica multa por má-fé",
+    "summary": "Alexandre de Moraes rejeitou o pedido da coligação de Bolsonaro para verificar urnas do segundo turno e aplicou multa de R$ 22,9 milhões por litigância de má-fé.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Tribunal Superior Eleitoral",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Dezembro/tse-confirma-multa-de-r-22-9-milhoes-ao-pl-por-litigancia-de-ma-fe",
+        "published": "2022-12-15"
+      }
+    ],
+    "status": "Decisão judicial",
+    "dateNote": "Decisão inicial de 23 de novembro; fonte relata sua confirmação em 15 de dezembro.",
+    "id": "registro-2022-11-23-tse-rejeita-contestacao-as-urnas-e-aplica-multa-por-ma",
+    "image": {
+      "url": "https://www.tse.jus.br/imagens/imagens/foto-alejandro-zambrana-secom-tse-sessao-plenaria-tse-15-12-3.2022/@@images/image-1140-7aa4c911e3a03e7dc71bfdc759a291d4.jpeg",
+      "local": "assets/noticia-2022-11-23.jpg",
+      "alt": "Foto: Alejandro Zambrana/Secom/TSE - Sessão plenária TSE - 15.12.2022",
+      "credit": "Alejandro Zambrana/Secom/TSE",
+      "sourceUrl": "https://www.tse.jus.br/comunicacao/noticias/2022/Dezembro/tse-confirma-multa-de-r-22-9-milhoes-ao-pl-por-litigancia-de-ma-fe",
+      "license": "Fotografia institucional do TSE; crédito Secom/TSE preservado. A página não especifica uma licença Creative Commons.",
+      "context": "Foto de sessão do TSE em 15 de dezembro de 2022, posterior à decisão de 23 de novembro; é a ilustração atualmente usada na notícia."
+    }
+  },
+  {
+    "date": "2022-11-28",
+    "title": "Militares de Forças Especiais reúnem-se para pressionar o Alto Comando",
+    "summary": "Segundo a PGR, militares de Forças Especiais se reuniram e discutiram estratégias para obter apoio do Alto Comando do Exército a medidas golpistas.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "CNN Brasil — alegações finais da PGR",
+        "url": "https://www.cnnbrasil.com.br/politica/pgr-ha-provas-de-que-minuta-do-golpe-foi-apresentada-ao-comando-do-exercito/",
+        "published": "2025-07-15"
+      }
+    ],
+    "id": "registro-2022-11-28-militares-de-forcas-especiais-reunem-se-para-pressionar-o-alto-comando",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi/20210810_00098pf.jpg",
+      "local": "assets/noticia-2021-08-10.jpg",
+      "alt": "Ao lado do ministro da Defesa, Braga Neto (3º à dir.), Bolsonaro acena do alto da rampa do Planalto para militares e manifestantes ",
+      "credit": "Pedro França/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Bolsonaro e autoridades acompanham o desfile militar no Planalto em 10 de agosto de 2021.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-11-30",
+    "title": "Amazônia perde mais de 11 mil km², apesar de recuo anual",
+    "summary": "O Inpe divulgou estimativa de 11.568 km² desmatados na Amazônia Legal entre agosto de 2021 e julho de 2022, queda de aproximadamente 11% sobre o período anterior.",
+    "category": "Meio ambiente",
+    "importance": 4,
+    "sources": [
+      {
+        "name": "Deutsche Welle / UOL",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2022/11/30/desmatamento-na-amazonia-cai-11-em-2022.amp.htm",
+        "published": "2022-11-30"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Data da divulgação; desmatamento acumulado entre agosto de 2021 e julho de 2022, não ocorrido em um único dia.",
+    "id": "registro-2022-11-30-amazonia-perde-mais-de-11-mil-km2-apesar-de-recuo-anual"
+  },
+  {
+    "date": "2022-12-02",
+    "title": "IBGE aponta aumento recorde da pobreza em 2021",
+    "summary": "O IBGE divulgou que 62,5 milhões de pessoas estavam na pobreza em 2021, incluindo 17,9 milhões em extrema pobreza, segundo as linhas adotadas na publicação.",
+    "category": "Economia",
+    "importance": 5,
+    "status": "Fato documentado",
+    "dateNote": "Data da divulgação. O indicador se refere a 2021 e às linhas de pobreza do Banco Mundial usadas naquela publicação; não representa um acontecimento ocorrido em um único dia.",
+    "sources": [
+      {
+        "name": "IBGE",
+        "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/35687-em-2021-pobreza-tem-aumento-recorde-e-atinge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012",
+        "published": "2022-12-02"
+      }
+    ],
+    "id": "registro-2022-12-02-ibge-aponta-aumento-recorde-da-pobreza-em-2021",
+    "image": {
+      "url": "https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_sociais/2022_12/SIS_Pobreza_HOME_AgenciaBrasil.jpg",
+      "local": "assets/indicador-2022-12-02.jpg",
+      "credit": "Agência Brasil",
+      "alt": "Fotografia utilizada pelo IBGE na divulgação do aumento da pobreza em 2021; imagem de contexto social.",
+      "sourceUrl": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/35687-em-2021-pobreza-tem-aumento-recorde-e-atinge-62-5-milhoes-de-pessoas-maior-nivel-desde-2012",
+      "context": "Fotografia utilizada pelo IBGE na divulgação do aumento da pobreza em 2021; imagem de contexto social.",
+      "license": "Imagem publicada na Agência IBGE Notícias, com o crédito fotográfico informado na reportagem. Consulte condições de reprodução na fonte."
+    }
+  },
+  {
+    "date": "2022-12-06",
+    "title": "Plano Punhal Verde Amarelo é novamente impresso no Planalto",
+    "summary": "Segundo a PF, Mário Fernandes voltou a imprimir o planejamento Punhal Verde Amarelo no Palácio do Planalto.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "UOL — duas impressões do plano",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/11/19/pf-plano-para-matar-lula-foi-impresso-no-planalto-onde-bolsonaro-estava.ghtm",
+        "published": "2024-11-19"
+      },
+      {
+        "name": "Polícia Federal — relatório divulgado pelo STF (PDF)",
+        "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/11/19102018/Oficio-no-4810932-2024.PF_.PET-13236.pdf",
+        "published": "2024-11-19"
+      }
+    ],
+    "id": "registro-2022-12-06-plano-punhal-verde-amarelo-e-novamente-impresso-no-planalto",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento/20190215_0552x.jpg",
+      "local": "assets/noticia-2021-05-09.jpg",
+      "alt": "Palácio do Planalto, com Congresso ao fundo: parlamentares precisam debater uma solução que aperfeiçoe o uso das emendas, defendem senadores",
+      "credit": "Cléber Medeiros/Senado Federal",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Palácio do Planalto com Congresso ao fundo, imagem de arquivo de 2019 publicada na cobertura do orçamento secreto em novembro de 2021.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-12-07",
+    "title": "Minuta para contestar eleição é apresentada em reunião no Alvorada",
+    "summary": "Freire Gomes relatou à PF que uma minuta prevendo medidas de exceção foi apresentada em reunião com Bolsonaro no Alvorada. Segundo o depoimento, Bolsonaro informou que o documento estava em estudo.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/politica/confira-integra-da-minuta-golpista-apresentada-por-bolsonaro-a-freire-gomes/",
+        "published": "2024-03-15"
+      },
+      {
+        "name": "STF — condenação posterior na AP 2668",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "published": "2025-09-11"
+      }
+    ],
+    "status": "Investigação",
+    "dateNote": "Reunião em 7 de dezembro de 2022, conforme depoimento divulgado em março de 2024. A ficha apresenta o relato atribuído à testemunha.",
+    "update": "Em 11 de setembro de 2025, a Primeira Turma do STF condenou Jair Bolsonaro na AP 2668 por sua participação na tentativa de golpe, fixando pena de 27 anos e três meses. A nota não altera a data do episódio histórico narrado.",
+    "rank": 5,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2022-12-07-minuta-para-contestar-eleicao-e-apresentada-em-reuniao",
+    "image": {
+      "url": "https://static.poder360.com.br/uploads/2022/07/Jair-Bolsonaro-embaixadores-18-jul-2022.jpg",
+      "local": "assets/bolsonaro-2022-07-18.jpg",
+      "alt": "Bolsonaro apresenta alegações sobre urnas a embaixadores no Alvorada.",
+      "credit": "Reprodução/Palácio do Planalto — 18 de julho de 2022",
+      "sourceUrl": "https://www.poder360.com.br/eleicoes/leia-a-integra-do-que-disse-bolsonaro-a-embaixadores/",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Fotograma da apresentação de Bolsonaro aos embaixadores no Palácio da Alvorada em 18 de julho de 2022.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-12-08",
+    "title": "Mário Fernandes fala em aproveitar oportunidades para ruptura",
+    "summary": "Em mensagem a Mauro Cid, Mário Fernandes cobrou ação antes do enfraquecimento das manifestações e afirmou ter ouvido de Bolsonaro um prazo até o fim de dezembro.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "UOL — cronologia da investigação",
+        "url": "https://www.bol.uol.com.br/noticias/2024/11/20/cronologia-plano-golpe-entorno-bolsonaro.htm",
+        "published": "2024-11-20"
+      }
+    ],
+    "id": "registro-2022-12-08-mario-fernandes-fala-em-aproveitar-oportunidades-para-ruptura",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento/20190215_0552x.jpg",
+      "local": "assets/noticia-2021-05-09.jpg",
+      "alt": "Palácio do Planalto, com Congresso ao fundo: parlamentares precisam debater uma solução que aperfeiçoe o uso das emendas, defendem senadores",
+      "credit": "Cléber Medeiros/Senado Federal",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/11/11/senadores-cobram-mais-transparencia-na-execucao-das-emendas-de-relator-no-orcamento",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Palácio do Planalto com Congresso ao fundo, imagem de arquivo de 2019 publicada na cobertura do orçamento secreto em novembro de 2021.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-12-09",
+    "title": "Bolsonaro ajusta decreto e recebe comandante de Operações Terrestres, diz PF",
+    "summary": "Segundo registros e mensagens examinados pela PF, Bolsonaro revisou a minuta e recebeu o general Theophilo Gaspar de Oliveira. A PF vinculou os atos à busca de apoio para a ruptura.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "GZH — registros do Alvorada e mensagens examinados pela PF",
+        "url": "https://gauchazh.clicrbs.com.br/politica/noticia/2024/02/minuta-do-golpe-foi-apresentada-a-bolsonaro-em-novembro-de-2022-diz-pf-confira-a-cronologia-clsluq2zh008z01db5t3xno73.html",
+        "published": "2024-02-14"
+      }
+    ],
+    "id": "registro-2022-12-09-bolsonaro-ajusta-decreto-e-recebe-comandante-de-operacoes-terrestres-d",
+    "highlight": true,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido.",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi/20210810_00098pf.jpg",
+      "local": "assets/noticia-2021-08-10.jpg",
+      "alt": "Ao lado do ministro da Defesa, Braga Neto (3º à dir.), Bolsonaro acena do alto da rampa do Planalto para militares e manifestantes ",
+      "credit": "Pedro França/Agência Senado",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/08/10/desfile-de-blindados-evidencia-fraqueza-de-um-presidente-acuado-diz-nota-da-cpi",
+      "license": "Agência Senado: reprodução autorizada mediante citação da Agência Senado; crédito fotográfico preservado.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Bolsonaro e autoridades acompanham o desfile militar no Planalto em 10 de agosto de 2021.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-12-12",
+    "title": "Bolsonaristas incendeiam veículos e tentam invadir a Polícia Federal",
+    "summary": "Apoiadores de Bolsonaro tentaram invadir a sede da PF em Brasília e incendiaram carros e ônibus após a prisão de uma liderança indígena bolsonarista.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/12/12/bolsonaristas-queimam-carros-e-tentam-invadir-pf-apos-prisao-de-indigena.htm",
+        "published": "2022-12-12"
+      }
+    ],
+    "status": "Fato documentado",
+    "id": "registro-2022-12-12-bolsonaristas-incendeiam-veiculos-e-tentam-invadir-a-po",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ed4emApgGjQ",
+      "title": "Bolsonaristas queimam carros e tentam invadir PF após prisão de indígena",
+      "source": "UOL",
+      "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/12/12/bolsonaristas-queimam-carros-e-tentam-invadir-pf-apos-prisao-de-indigena.htm"
+    },
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/3b/2022/12/13/onibus-incendiado-por-bolsonaristas-em-brasilia-df-1670931987685_v2_750x421.jpg",
+      "local": "assets/bolsonaro-2022-12-12.jpg",
+      "alt": "Ônibus incendiado por bolsonaristas em Brasília (DF) - Pedro Ladeira/Folhapress - Pedro Ladeira/Folhapress",
+      "credit": "Pedro Ladeira/Folhapress",
+      "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/12/12/bolsonaristas-queimam-carros-e-tentam-invadir-pf-apos-prisao-de-indigena.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Ônibus incendiado na noite dos ataques em Brasília em 12 de dezembro de 2022; fotografia publicada na cobertura do dia seguinte."
+    }
+  },
+  {
+    "date": "2022-12-14",
+    "title": "Comandantes relatam nova apresentação de minuta no Ministério da Defesa",
+    "summary": "Ex-comandantes do Exército e da Aeronáutica relataram à PF uma reunião convocada por Paulo Sérgio Nogueira para apresentar outra versão da minuta. Baptista Júnior afirmou que recusou a hipótese de impedir a posse do governo eleito.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://www1.folha.uol.com.br/amp/poder/2024/03/ex-comandantes-reforcam-suspeitas-e-implicam-bolsonaro-em-investigacao-de-trama-golpista.shtml",
+        "published": "2024-03-15"
+      },
+      {
+        "name": "STF — condenação posterior na AP 2668",
+        "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/",
+        "published": "2025-09-11"
+      }
+    ],
+    "status": "Investigação",
+    "dateNote": "Reunião de 14 de dezembro de 2022, conforme depoimentos publicados em março de 2024.",
+    "update": "Em 11 de setembro de 2025, a Primeira Turma do STF condenou Jair Bolsonaro na AP 2668 por sua participação na tentativa de golpe, fixando pena de 27 anos e três meses. A nota não altera a data do episódio histórico narrado.",
+    "id": "registro-2022-12-14-comandantes-relatam-nova-apresentacao-de-minuta-no-mini"
+  },
+  {
+    "date": "2022-12-15",
+    "title": "Operação Copa 2022 mobiliza agentes contra Alexandre de Moraes",
+    "summary": "Segundo a PF, militares se posicionaram para uma ação contra Alexandre de Moraes e trocaram mensagens sob codinomes. O plano foi abortado.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Ato de 2022 apurado posteriormente",
+    "dateNote": "Data do ato histórico, e não da reportagem ou da descoberta posterior. As atribuições à PF, à PGR ou a testemunhas estão explicitadas na descrição.",
+    "sources": [
+      {
+        "name": "CNN Brasil — operação Copa 2022",
+        "url": "https://www.cnnbrasil.com.br/politica/copa-22-minuta-de-golpe-e-codinomes-veja-o-que-embasou-indiciamentos-da-pf/",
+        "published": "2024-11-23"
+      },
+      {
+        "name": "Polícia Federal — relatório divulgado pelo STF (PDF)",
+        "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/11/19102018/Oficio-no-4810932-2024.PF_.PET-13236.pdf",
+        "published": "2024-11-19"
+      }
+    ],
+    "id": "registro-2022-12-15-operacao-copa-2022-mobiliza-agentes-contra-alexandre-de-moraes",
+    "highlight": false,
+    "prominence": "Seleção editorial por relevância institucional; não representa engajamento medido."
+  },
+  {
+    "date": "2022-12-24",
+    "title": "Bomba em caminhão de combustível ameaça Aeroporto de Brasília",
+    "summary": "Um artefato explosivo colocado em um caminhão-tanque próximo ao Aeroporto de Brasília falhou por erro no mecanismo de acionamento.",
+    "category": "Democracia",
+    "importance": 5,
+    "sources": [
+      {
+        "name": "A Gazeta",
+        "url": "https://www.agazeta.com.br/brasil/pm-encontra-bomba-em-estrada-que-leva-ao-aeroporto-de-brasilia-1222",
+        "published": "2022-12-24"
+      },
+      {
+        "name": "TJDFT",
+        "url": "https://www.tjdft.jus.br/institucional/imprensa/noticias/2026/julho/tjdft-mantem-condenacao-de-homem-por-bomba-em-caminhao-tanque-proximo-ao-aeroporto-de-brasilia",
+        "published": "2026-07-29"
+      }
+    ],
+    "status": "Fato documentado",
+    "dateNote": "Artefato colocado na madrugada de 24 de dezembro de 2022; fonte judicial posterior descreve o crime e a condenação.",
+    "rank": 20,
+    "highlight": true,
+    "prominence": "Seleção editorial por alcance humano ou institucional e relevância na sequência de crises documentadas. Não representa engajamento medido.",
+    "id": "registro-2022-12-24-bomba-em-caminhao-de-combustivel-ameaca-aeroporto-de-br",
+    "image": {
+      "url": "https://conteudo.imguol.com.br/c/noticias/3b/2022/12/13/onibus-incendiado-por-bolsonaristas-em-brasilia-df-1670931987685_v2_750x421.jpg",
+      "local": "assets/bolsonaro-2022-12-12.jpg",
+      "alt": "Ônibus incendiado por bolsonaristas em Brasília (DF) - Pedro Ladeira/Folhapress - Pedro Ladeira/Folhapress",
+      "credit": "Pedro Ladeira/Folhapress",
+      "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/12/12/bolsonaristas-queimam-carros-e-tentam-invadir-pf-apos-prisao-de-indigena.htm",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de contexto relacionada ao tema; não retrata este acontecimento. Ônibus incendiado na noite dos ataques em Brasília em 12 de dezembro de 2022; fotografia publicada na cobertura do dia seguinte.",
+      "previewLabel": "Imagem de contexto"
+    }
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Enviado do gabinete presidencial tenta retirar joias em Guarulhos",
+    "summary": "Um sargento enviado pelo gabinete presidencial tentou retirar em Guarulhos as joias sauditas retidas na alfândega. Apresentou documento encaminhado por Mauro Cid à chefia da Receita; a liberação não ocorreu.",
+    "category": "Governo",
+    "importance": 5,
+    "status": "Fato documentado",
+    "dateNote": "Tentativa em 28 de dezembro de 2022; imagens divulgadas em março de 2023.",
+    "sources": [
+      {
+        "name": "Correio Braziliense",
+        "url": "https://www.correiobraziliense.com.br/politica/2023/03/5078851-imagens-mostram-enviado-de-bolsonaro-tentando-retirar-joias-em-aeroporto.html",
+        "published": "2023-03-08"
+      }
+    ],
+    "id": "registro-2022-12-28-enviado-do-gabinete-presidencial-tenta-retirar-joias-em",
+    "image": {
+      "url": "https://midias.correiobraziliense.com.br/_midias/png/2023/03/08/675x450/1_print-27577900.png?20230308154256?20230308154256",
+      "local": "assets/bolsonaro-2022-12-28.jpg",
+      "alt": "Enviado do gabinete presidencial diante de funcionários na tentativa de recuperar joias no aeroporto.",
+      "credit": "Reprodução Globo/G1 — imagem obtida pela GloboNews",
+      "sourceUrl": "https://www.correiobraziliense.com.br/politica/2023/03/5078851-imagens-mostram-enviado-de-bolsonaro-tentando-retirar-joias-em-aeroporto.html",
+      "license": "Crédito original preservado. Não foi identificada licença aberta na página; reprodução depende dos direitos da fotografia ou do registro audiovisual.",
+      "context": "Imagem de câmera de segurança de 28 de dezembro de 2022 mostra a tentativa de recuperar as joias retidas; divulgada em março de 2023."
+    }
+  },
+  {
+    "date": "2023-01-08",
+    "title": "Golpistas invadem o Planalto, o Congresso e o STF",
+    "summary": "Apoiadores de Bolsonaro invadiram o Congresso, o STF e o Palácio do Planalto e destruíram patrimônio público e obras de arte.",
+    "category": "Democracia",
+    "importance": 5,
+    "status": "Fato documentado",
+    "sources": [
+      {
+        "name": "Agência Brasil",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-01/relembre-o-passo-passo-da-tentativa-de-golpe-no-81",
+        "published": "2024-01-08"
+      },
+      {
+        "name": "Reuters / UOL — reações internacionais",
+        "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2023/01/08/bolsonaristas-rompem-bloqueio-e-invadem-area-da-esplanada.htm",
+        "published": "2023-01-08"
+      }
+    ],
+    "image": {
+      "url": "https://imagens.ebc.com.br/Chhch5Rj_mOyQ6_iPZy1X9zL1BQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/manifestacao_mcamgo_abr_080120231818-9.jpg?itok=j9EvMbqA",
+      "credit": "Marcelo Camargo / Agência Brasil",
+      "license": "Reprodução gratuita com crédito obrigatório; autoria Agência Brasil. Condições oficiais do banco de imagens EBC.",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-01/relembre-o-passo-passo-da-tentativa-de-golpe-no-81",
+      "alt": "Manifestantes invadem as sedes dos Três Poderes em Brasília em 8 de janeiro de 2023.",
+      "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+      "local": "assets/8-janeiro.jpg"
+    },
+    "rank": 1,
+    "highlight": true,
+    "prominence": "Ataque às sedes dos Três Poderes, com repúdio de líderes internacionais documentado pela Reuters.",
+    "id": "registro-2023-01-08-extremistas-invadem-e-destroem-as-sedes-dos-tres-podere"
+  }
+]

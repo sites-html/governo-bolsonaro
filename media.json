@@ -1,0 +1,130 @@
+[
+  {
+    "topic": "queimadas-amazonia",
+    "date": "2019-08-11",
+    "image": {
+      "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/145000/145464/brazilfires_amo_2019223.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "credit": "Lauren Dauphin / NASA Earth Observatory; dados MODIS NASA EOSDIS/LANCE e GIBS/Worldview",
+      "license": "Uso informativo autorizado conforme NASA Images and Media Usage Guidelines. Crédito NASA obrigatório.",
+      "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fires-in-brazil-145464/",
+      "alt": "Imagem de satélite registra focos de incêndio e fumaça sobre a Amazônia em agosto de 2019.",
+      "licenseUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "localPath": "assets/amazonia-2019.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "demissao-moro",
+    "date": "2020-04-24",
+    "image": {
+      "url": "https://www.camara.leg.br/midias/image/2020/04/moro2-768x512.jpg",
+      "credit": "Marcello Casal Jr / Agência Brasil",
+      "license": "Reprodução gratuita com crédito obrigatório; autoria Agência Brasil. Condições oficiais do banco de imagens EBC.",
+      "sourceUrl": "https://www.camara.leg.br/noticias/656653-ao-se-demitir-moro-aponta-tentativa-de-interferencia-politica-na-policia-federal/",
+      "alt": "Sergio Moro é aplaudido após anunciar sua demissão do Ministério da Justiça em 24 de abril de 2020.",
+      "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+      "localPath": "assets/moro-demissao.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "cpi-pandemia-relatorio",
+    "date": "2021-10-26",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/10/26/cpi-da-pandemia-o-que-mudou-na-nova-versao-do-relatorio/20211026_02362pf.jpg",
+      "credit": "Pedro França / Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/10/27/26/cpi-da-pandemia-o-que-mudou-na-nova-versao-do-relatorio",
+      "alt": "Renan Calheiros durante apresentação do relatório da CPI da Pandemia em 26 de outubro de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "localPath": "assets/cpi-relatorio.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "ministros-saude-cpi",
+    "date": "2021-05-28",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina/pazuello_mandetta_teich_queiroga_01.jpg",
+      "credit": "Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina",
+      "alt": "Montagem da Agência Senado reúne Pazuello, Queiroga, Teich e Mandetta em depoimentos à CPI. Publicação de 28 de maio de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "localPath": "assets/ministros-saude-cpi.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "mayra-cloroquina-cpi",
+    "date": "2021-05-25",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina/mayra___20210525_01916jr.jpg",
+      "credit": "Jefferson Rudy / Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/05/28/mandetta-revela-gabinete-paralelo-e-tentativa-de-mudar-bula-da-cloroquina",
+      "alt": "Mayra Pinheiro em depoimento à CPI da Pandemia em 25 de maio de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "localPath": "assets/mayra-cpi.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "covaxin-denuncias",
+    "date": "2021-06-25",
+    "image": {
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/06/25/deputado-e-servidor-reafirmam-denuncias-contra-governo-na-compra-da-covaxin/Miranda_20210625_01568e.jpg",
+      "credit": "Edilson Rodrigues / Agência Senado",
+      "license": "Reprodução livre com crédito obrigatório, conforme Política de Uso da Agência Senado.",
+      "sourceUrl": "https://www12.senado.leg.br/noticias/materias/2021/06/25/deputado-e-servidor-reafirmam-denuncias-contra-governo-na-compra-da-covaxin",
+      "alt": "Luis Miranda e Luis Ricardo Miranda prestam depoimento sobre a Covaxin à CPI em 25 de junho de 2021.",
+      "licenseUrl": "https://www12.senado.leg.br/assessoria-de-imprensa/releases/cpi-da-pandemia-gera-novo-recorde-de-acessos-a-banco-de-imagens-do-senado",
+      "localPath": "assets/covaxin-cpi.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "8-janeiro-invasao",
+    "date": "2023-01-08",
+    "image": {
+      "url": "https://imagens.ebc.com.br/Chhch5Rj_mOyQ6_iPZy1X9zL1BQ=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/manifestacao_mcamgo_abr_080120231818-9.jpg?itok=j9EvMbqA",
+      "credit": "Marcelo Camargo / Agência Brasil",
+      "license": "Reprodução gratuita com crédito obrigatório; autoria Agência Brasil. Condições oficiais do banco de imagens EBC.",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-01/relembre-o-passo-passo-da-tentativa-de-golpe-no-81",
+      "alt": "Manifestantes invadem as sedes dos Três Poderes em Brasília em 8 de janeiro de 2023.",
+      "licenseUrl": "https://www.gov.br/pt-br/servicos/acessar-material-fotojornalistico-gratuitamente",
+      "localPath": "assets/8-janeiro.jpg",
+      "downloaded": true
+    }
+  },
+  {
+    "topic": "e-dai",
+    "date": "2020-04-28",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=OgwAdKB36N8",
+      "title": "Bolsonaro responde sobre mortes por coronavírus",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/e-a-vida-diz-bolsonaro-sobre-mortes-por-coronavirus/"
+    }
+  },
+  {
+    "topic": "demissao-moro",
+    "date": "2020-04-24",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4-pQXCdZOuM",
+      "title": "Pronunciamento da demissão de Sergio Moro",
+      "source": "CNN Brasil",
+      "sourceUrl": "https://www.cnnbrasil.com.br/politica/moro-pede-demissao-assista-ao-pronunciamento-na-integra/"
+    }
+  },
+  {
+    "topic": "covaxin-denuncias",
+    "date": "2021-06-25",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=5UdxWLtjDME",
+      "title": "CPI da Pandemia ouve deputado e servidor sobre Covaxin — 25/6/2021",
+      "source": "TV Senado",
+      "sourceUrl": "https://www.youtube.com/watch?v=5UdxWLtjDME"
+    }
+  }
+]
